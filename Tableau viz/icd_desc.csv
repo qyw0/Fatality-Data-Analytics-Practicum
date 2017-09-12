@@ -1,0 +1,5611 @@
+ucod,Desc
+A192,Tuberculosis
+A199,Tuberculosis
+A162,Tuberculosis
+A188,Tuberculosis
+A170,Tuberculosis
+A181,Tuberculosis
+A182,Tuberculosis
+A169,Tuberculosis
+A180,Tuberculosis
+A191,Tuberculosis
+A187,Tuberculosis
+A190,Tuberculosis
+A183,Tuberculosis
+A165,Tuberculosis
+A168,Tuberculosis
+A167,Tuberculosis
+A178,Tuberculosis
+A164,Tuberculosis
+A179,Tuberculosis
+A198,Tuberculosis
+A529,Syphilis
+A521,Syphilis
+A502,Syphilis
+A514,Syphilis
+A528,Syphilis
+A523,Syphilis
+A509,Syphilis
+A513,Syphilis
+A530,Syphilis
+A504,Syphilis
+A527,Syphilis
+A520,Syphilis
+A539,Syphilis
+A505,Syphilis
+A515,Syphilis
+B206,Human immunodeficiency virus (HIV) disease
+B24,Human immunodeficiency virus (HIV) disease
+B202,Human immunodeficiency virus (HIV) disease
+B207,Human immunodeficiency virus (HIV) disease
+B209,Human immunodeficiency virus (HIV) disease
+B227,Human immunodeficiency virus (HIV) disease
+B208,Human immunodeficiency virus (HIV) disease
+B222,Human immunodeficiency virus (HIV) disease
+B203,Human immunodeficiency virus (HIV) disease
+B220,Human immunodeficiency virus (HIV) disease
+B201,Human immunodeficiency virus (HIV) disease
+B200,Human immunodeficiency virus (HIV) disease
+B205,Human immunodeficiency virus (HIV) disease
+B219,Human immunodeficiency virus (HIV) disease
+B232,Human immunodeficiency virus (HIV) disease
+B211,Human immunodeficiency virus (HIV) disease
+B204,Human immunodeficiency virus (HIV) disease
+B231,Human immunodeficiency virus (HIV) disease
+B238,Human immunodeficiency virus (HIV) disease
+B210,Human immunodeficiency virus (HIV) disease
+B217,Human immunodeficiency virus (HIV) disease
+B212,Human immunodeficiency virus (HIV) disease
+B218,Human immunodeficiency virus (HIV) disease
+B213,Human immunodeficiency virus (HIV) disease
+C165,Malignant neoplasm of stomach
+C160,Malignant neoplasm of stomach
+C163,Malignant neoplasm of stomach
+C168,Malignant neoplasm of stomach
+C162,Malignant neoplasm of stomach
+C169,Malignant neoplasm of stomach
+C164,Malignant neoplasm of stomach
+C161,Malignant neoplasm of stomach
+C166,Malignant neoplasm of stomach
+C189,Malignant neoplasms of colon rectum and anus
+C180,Malignant neoplasms of colon rectum and anus
+C20,Malignant neoplasms of colon rectum and anus
+C181,Malignant neoplasms of colon rectum and anus
+C218,Malignant neoplasms of colon rectum and anus
+C188,Malignant neoplasms of colon rectum and anus
+C187,Malignant neoplasms of colon rectum and anus
+C186,Malignant neoplasms of colon rectum and anus
+C210,Malignant neoplasms of colon rectum and anus
+C212,Malignant neoplasms of colon rectum and anus
+C182,Malignant neoplasms of colon rectum and anus
+C184,Malignant neoplasms of colon rectum and anus
+C183,Malignant neoplasms of colon rectum and anus
+C19,Malignant neoplasms of colon rectum and anus
+C211,Malignant neoplasms of colon rectum and anus
+C185,Malignant neoplasms of colon rectum and anus
+C257,Malignant neoplasm of pancreas
+C250,Malignant neoplasm of pancreas
+C259,Malignant neoplasm of pancreas
+C253,Malignant neoplasm of pancreas
+C252,Malignant neoplasm of pancreas
+C251,Malignant neoplasm of pancreas
+C258,Malignant neoplasm of pancreas
+C254,Malignant neoplasm of pancreas
+C341,Malignant neoplasms of trachea bronchus and lung
+C342,Malignant neoplasms of trachea bronchus and lung
+C33,Malignant neoplasms of trachea bronchus and lung
+C349,Malignant neoplasms of trachea bronchus and lung
+C343,Malignant neoplasms of trachea bronchus and lung
+C340,Malignant neoplasms of trachea bronchus and lung
+C348,Malignant neoplasms of trachea bronchus and lung
+C504,Malignant neoplasm of breast
+C509,Malignant neoplasm of breast
+C503,Malignant neoplasm of breast
+C505,Malignant neoplasm of breast
+C502,Malignant neoplasm of breast
+C501,Malignant neoplasm of breast
+C500,Malignant neoplasm of breast
+C506,Malignant neoplasm of breast
+C508,Malignant neoplasm of breast
+C531,Malignant neoplasms of cervix uteri corpus uteri and ovary
+C56,Malignant neoplasms of cervix uteri corpus uteri and ovary
+C543,Malignant neoplasms of cervix uteri corpus uteri and ovary
+C548,Malignant neoplasms of cervix uteri corpus uteri and ovary
+C549,Malignant neoplasms of cervix uteri corpus uteri and ovary
+C542,Malignant neoplasms of cervix uteri corpus uteri and ovary
+C541,Malignant neoplasms of cervix uteri corpus uteri and ovary
+C538,Malignant neoplasms of cervix uteri corpus uteri and ovary
+C539,Malignant neoplasms of cervix uteri corpus uteri and ovary
+C540,Malignant neoplasms of cervix uteri corpus uteri and ovary
+C55,Malignant neoplasms of cervix uteri corpus uteri and ovary
+C530,Malignant neoplasms of cervix uteri corpus uteri and ovary
+C61,Malignant neoplasm of prostate
+C681,Malignant neoplasms of urinary tract
+C64,Malignant neoplasms of urinary tract
+C676,Malignant neoplasms of urinary tract
+C689,Malignant neoplasms of urinary tract
+C671,Malignant neoplasms of urinary tract
+C674,Malignant neoplasms of urinary tract
+C679,Malignant neoplasms of urinary tract
+C672,Malignant neoplasms of urinary tract
+C688,Malignant neoplasms of urinary tract
+C677,Malignant neoplasms of urinary tract
+C670,Malignant neoplasms of urinary tract
+C675,Malignant neoplasms of urinary tract
+C678,Malignant neoplasms of urinary tract
+C673,Malignant neoplasms of urinary tract
+C680,Malignant neoplasms of urinary tract
+C66,Malignant neoplasms of urinary tract
+C65,Malignant neoplasms of urinary tract
+C833,Non-Hodgkins lymphoma
+C834,Non-Hodgkins lymphoma
+C842,Non-Hodgkins lymphoma
+C845,Non-Hodgkins lymphoma
+C829,Non-Hodgkins lymphoma
+C821,Non-Hodgkins lymphoma
+C859,Non-Hodgkins lymphoma
+C840,Non-Hodgkins lymphoma
+C835,Non-Hodgkins lymphoma
+C830,Non-Hodgkins lymphoma
+C844,Non-Hodgkins lymphoma
+C841,Non-Hodgkins lymphoma
+C837,Non-Hodgkins lymphoma
+C827,Non-Hodgkins lymphoma
+C820,Non-Hodgkins lymphoma
+C851,Non-Hodgkins lymphoma
+C831,Non-Hodgkins lymphoma
+C850,Non-Hodgkins lymphoma
+C843,Non-Hodgkins lymphoma
+C822,Non-Hodgkins lymphoma
+C832,Non-Hodgkins lymphoma
+C838,Non-Hodgkins lymphoma
+C836,Non-Hodgkins lymphoma
+C839,Non-Hodgkins lymphoma
+C857,Non-Hodgkins lymphoma
+C939,Leukemia
+C929,Leukemia
+C920,Leukemia
+C947,Leukemia
+C959,Leukemia
+C917,Leukemia
+C950,Leukemia
+C931,Leukemia
+C957,Leukemia
+C921,Leukemia
+C923,Leukemia
+C925,Leukemia
+C940,Leukemia
+C924,Leukemia
+C910,Leukemia
+C919,Leukemia
+C942,Leukemia
+C952,Leukemia
+C943,Leukemia
+C944,Leukemia
+C930,Leukemia
+C915,Leukemia
+C912,Leukemia
+C914,Leukemia
+C911,Leukemia
+C937,Leukemia
+C951,Leukemia
+C927,Leukemia
+C945,Leukemia
+C941,Leukemia
+C913,Leukemia
+C922,Leukemia
+C439,Other malignant neoplasms
+C73,Other malignant neoplasms
+C104,Other malignant neoplasms
+C410,Other malignant neoplasms
+C402,Other malignant neoplasms
+C440,Other malignant neoplasms
+C80,Other malignant neoplasms
+C961,Other malignant neoplasms
+C441,Other malignant neoplasms
+C435,Other malignant neoplasms
+C031,Other malignant neoplasms
+C142,Other malignant neoplasms
+C573,Other malignant neoplasms
+C774,Other malignant neoplasms
+C311,Other malignant neoplasms
+C403,Other malignant neoplasms
+C810,Other malignant neoplasms
+C478,Other malignant neoplasms
+C158,Other malignant neoplasms
+C220,Other malignant neoplasms
+C112,Other malignant neoplasms
+C725,Other malignant neoplasms
+C693,Other malignant neoplasms
+C900,Other malignant neoplasms
+C492,Other malignant neoplasms
+C720,Other malignant neoplasms
+C768,Other malignant neoplasms
+C713,Other malignant neoplasms
+C691,Other malignant neoplasms
+C320,Other malignant neoplasms
+C024,Other malignant neoplasms
+C400,Other malignant neoplasms
+C781,Other malignant neoplasms
+C469,Other malignant neoplasms
+C729,Other malignant neoplasms
+C459,Other malignant neoplasms
+C004,Other malignant neoplasms
+C714,Other malignant neoplasms
+C97,Other malignant neoplasms
+C148,Other malignant neoplasms
+C495,Other malignant neoplasms
+C173,Other malignant neoplasms
+C229,Other malignant neoplasms
+C139,Other malignant neoplasms
+C103,Other malignant neoplasms
+C411,Other malignant neoplasms
+C493,Other malignant neoplasms
+C301,Other malignant neoplasms
+C519,Other malignant neoplasms
+C578,Other malignant neoplasms
+C770,Other malignant neoplasms
+C159,Other malignant neoplasms
+C881,Other malignant neoplasms
+C383,Other malignant neoplasms
+C479,Other malignant neoplasms
+C783,Other malignant neoplasms
+C449,Other malignant neoplasms
+C467,Other malignant neoplasms
+C099,Other malignant neoplasms
+C790,Other malignant neoplasms
+C419,Other malignant neoplasms
+C786,Other malignant neoplasms
+C438,Other malignant neoplasms
+C700,Other malignant neoplasms
+C716,Other malignant neoplasms
+C701,Other malignant neoplasms
+C442,Other malignant neoplasms
+C962,Other malignant neoplasms
+C696,Other malignant neoplasms
+C795,Other malignant neoplasms
+C009,Other malignant neoplasms
+C639,Other malignant neoplasms
+C119,Other malignant neoplasms
+C154,Other malignant neoplasms
+C817,Other malignant neoplasms
+C023,Other malignant neoplasms
+C571,Other malignant neoplasms
+C140,Other malignant neoplasms
+C470,Other malignant neoplasms
+C040,Other malignant neoplasms
+C797,Other malignant neoplasms
+C715,Other malignant neoplasms
+C792,Other malignant neoplasms
+C463,Other malignant neoplasms
+C222,Other malignant neoplasms
+C609,Other malignant neoplasms
+C711,Other malignant neoplasms
+C728,Other malignant neoplasms
+C444,Other malignant neoplasms
+C472,Other malignant neoplasms
+C436,Other malignant neoplasms
+C401,Other malignant neoplasms
+C58,Other malignant neoplasms
+C260,Other malignant neoplasms
+C752,Other malignant neoplasms
+C960,Other malignant neoplasms
+C179,Other malignant neoplasms
+C224,Other malignant neoplasms
+C482,Other malignant neoplasms
+C443,Other malignant neoplasms
+C709,Other malignant neoplasms
+C779,Other malignant neoplasms
+C784,Other malignant neoplasms
+C512,Other malignant neoplasms
+C020,Other malignant neoplasms
+C749,Other malignant neoplasms
+C798,Other malignant neoplasms
+C761,Other malignant neoplasms
+C109,Other malignant neoplasms
+C269,Other malignant neoplasms
+C062,Other malignant neoplasms
+C111,Other malignant neoplasms
+C510,Other malignant neoplasms
+C100,Other malignant neoplasms
+C750,Other malignant neoplasms
+C480,Other malignant neoplasms
+C313,Other malignant neoplasms
+C969,Other malignant neoplasms
+C451,Other malignant neoplasms
+C601,Other malignant neoplasms
+C717,Other malignant neoplasms
+C794,Other malignant neoplasms
+C695,Other malignant neoplasms
+C793,Other malignant neoplasms
+C765,Other malignant neoplasms
+C473,Other malignant neoplasms
+C758,Other malignant neoplasms
+C01,Other malignant neoplasms
+C108,Other malignant neoplasms
+C329,Other malignant neoplasms
+C060,Other malignant neoplasms
+C574,Other malignant neoplasms
+C692,Other malignant neoplasms
+C414,Other malignant neoplasms
+C719,Other malignant neoplasms
+C091,Other malignant neoplasms
+C762,Other malignant neoplasms
+C753,Other malignant neoplasms
+C476,Other malignant neoplasms
+C323,Other malignant neoplasms
+C882,Other malignant neoplasms
+C572,Other malignant neoplasms
+C001,Other malignant neoplasms
+C791,Other malignant neoplasms
+C448,Other malignant neoplasms
+C788,Other malignant neoplasms
+C23,Other malignant neoplasms
+C021,Other malignant neoplasms
+C751,Other malignant neoplasms
+C080,Other malignant neoplasms
+C630,Other malignant neoplasms
+C499,Other malignant neoplasms
+C474,Other malignant neoplasms
+C319,Other malignant neoplasms
+C059,Other malignant neoplasms
+C390,Other malignant neoplasms
+C170,Other malignant neoplasms
+C430,Other malignant neoplasms
+C150,Other malignant neoplasms
+C491,Other malignant neoplasms
+C901,Other malignant neoplasms
+C902,Other malignant neoplasms
+C760,Other malignant neoplasms
+C629,Other malignant neoplasms
+C740,Other malignant neoplasms
+C310,Other malignant neoplasms
+C637,Other malignant neoplasms
+C388,Other malignant neoplasms
+C37,Other malignant neoplasms
+C796,Other malignant neoplasms
+C452,Other malignant neoplasms
+C07,Other malignant neoplasms
+C771,Other malignant neoplasms
+C511,Other malignant neoplasms
+C240,Other malignant neoplasms
+C000,Other malignant neoplasms
+C089,Other malignant neoplasms
+C399,Other malignant neoplasms
+C261,Other malignant neoplasms
+C171,Other malignant neoplasms
+C602,Other malignant neoplasms
+C446,Other malignant neoplasms
+C322,Other malignant neoplasms
+C811,Other malignant neoplasms
+C498,Other malignant neoplasms
+C631,Other malignant neoplasms
+C488,Other malignant neoplasms
+C005,Other malignant neoplasms
+C813,Other malignant neoplasms
+C778,Other malignant neoplasms
+C153,Other malignant neoplasms
+C883,Other malignant neoplasms
+C300,Other malignant neoplasms
+C712,Other malignant neoplasms
+C321,Other malignant neoplasms
+C221,Other malignant neoplasms
+C380,Other malignant neoplasms
+C409,Other malignant neoplasms
+C029,Other malignant neoplasms
+C787,Other malignant neoplasms
+C431,Other malignant neoplasms
+C754,Other malignant neoplasms
+C268,Other malignant neoplasms
+C782,Other malignant neoplasms
+C764,Other malignant neoplasms
+C579,Other malignant neoplasms
+C694,Other malignant neoplasms
+C722,Other malignant neoplasms
+C384,Other malignant neoplasms
+C481,Other malignant neoplasms
+C178,Other malignant neoplasms
+C496,Other malignant neoplasms
+C223,Other malignant neoplasms
+C312,Other malignant neoplasms
+C570,Other malignant neoplasms
+C494,Other malignant neoplasms
+C967,Other malignant neoplasms
+C151,Other malignant neoplasms
+C039,Other malignant neoplasms
+C382,Other malignant neoplasms
+C812,Other malignant neoplasms
+C172,Other malignant neoplasms
+C081,Other malignant neoplasms
+C052,Other malignant neoplasms
+C52,Other malignant neoplasms
+C437,Other malignant neoplasms
+C462,Other malignant neoplasms
+C445,Other malignant neoplasms
+C490,Other malignant neoplasms
+C132,Other malignant neoplasms
+C773,Other malignant neoplasms
+C468,Other malignant neoplasms
+C698,Other malignant neoplasms
+C051,Other malignant neoplasms
+C418,Other malignant neoplasms
+C723,Other malignant neoplasms
+C061,Other malignant neoplasms
+C763,Other malignant neoplasms
+C433,Other malignant neoplasms
+C155,Other malignant neoplasms
+C434,Other malignant neoplasms
+C050,Other malignant neoplasms
+C069,Other malignant neoplasms
+C248,Other malignant neoplasms
+C030,Other malignant neoplasms
+C432,Other malignant neoplasms
+C620,Other malignant neoplasms
+C718,Other malignant neoplasms
+C457,Other malignant neoplasms
+C412,Other malignant neoplasms
+C741,Other malignant neoplasms
+C721,Other malignant neoplasms
+C413,Other malignant neoplasms
+C447,Other malignant neoplasms
+C608,Other malignant neoplasms
+C241,Other malignant neoplasms
+C138,Other malignant neoplasms
+C028,Other malignant neoplasms
+C381,Other malignant neoplasms
+C475,Other malignant neoplasms
+C710,Other malignant neoplasms
+C785,Other malignant neoplasms
+C049,Other malignant neoplasms
+C249,Other malignant neoplasms
+C152,Other malignant neoplasms
+C780,Other malignant neoplasms
+C577,Other malignant neoplasms
+C880,Other malignant neoplasms
+C068,Other malignant neoplasms
+C12,Other malignant neoplasms
+C227,Other malignant neoplasms
+C699,Other malignant neoplasms
+C755,Other malignant neoplasms
+C090,Other malignant neoplasms
+C058,Other malignant neoplasms
+C101,Other malignant neoplasms
+C690,Other malignant neoplasms
+C471,Other malignant neoplasms
+C889,Other malignant neoplasms
+C398,Other malignant neoplasms
+C460,Other malignant neoplasms
+C130,Other malignant neoplasms
+C113,Other malignant neoplasms
+C772,Other malignant neoplasms
+C724,Other malignant neoplasms
+C759,Other malignant neoplasms
+C632,Other malignant neoplasms
+C767,Other malignant neoplasms
+C621,Other malignant neoplasms
+C022,Other malignant neoplasms
+C600,Other malignant neoplasms
+C819,Other malignant neoplasms
+C775,Other malignant neoplasms
+C131,Other malignant neoplasms
+C450,Other malignant neoplasms
+E115,Diabetes mellitus
+E113,Diabetes mellitus
+E101,Diabetes mellitus
+E110,Diabetes mellitus
+E146,Diabetes mellitus
+E112,Diabetes mellitus
+E142,Diabetes mellitus
+E140,Diabetes mellitus
+E108,Diabetes mellitus
+E125,Diabetes mellitus
+E114,Diabetes mellitus
+E143,Diabetes mellitus
+E121,Diabetes mellitus
+E111,Diabetes mellitus
+E102,Diabetes mellitus
+E124,Diabetes mellitus
+E148,Diabetes mellitus
+E106,Diabetes mellitus
+E136,Diabetes mellitus
+E109,Diabetes mellitus
+E137,Diabetes mellitus
+E132,Diabetes mellitus
+E120,Diabetes mellitus
+E145,Diabetes mellitus
+E147,Diabetes mellitus
+E149,Diabetes mellitus
+E104,Diabetes mellitus
+E107,Diabetes mellitus
+E119,Diabetes mellitus
+E141,Diabetes mellitus
+E144,Diabetes mellitus
+E118,Diabetes mellitus
+E138,Diabetes mellitus
+E116,Diabetes mellitus
+E131,Diabetes mellitus
+E139,Diabetes mellitus
+E126,Diabetes mellitus
+E105,Diabetes mellitus
+E129,Diabetes mellitus
+E117,Diabetes mellitus
+E103,Diabetes mellitus
+E135,Diabetes mellitus
+E122,Diabetes mellitus
+E130,Diabetes mellitus
+E100,Diabetes mellitus
+E127,Diabetes mellitus
+G308,Alzheimers disease
+G300,Alzheimers disease
+G301,Alzheimers disease
+G309,Alzheimers disease
+I119,Hypertensive heart disease with or without renal disease
+I139,Hypertensive heart disease with or without renal disease
+I131,Hypertensive heart disease with or without renal disease
+I130,Hypertensive heart disease with or without renal disease
+I110,Hypertensive heart disease with or without renal disease
+I132,Hypertensive heart disease with or without renal disease
+I228,Ischemic heart diseases
+I250,Ischemic heart diseases
+I253,Ischemic heart diseases
+I209,Ischemic heart diseases
+I241,Ischemic heart diseases
+I201,Ischemic heart diseases
+I211,Ischemic heart diseases
+I259,Ischemic heart diseases
+I252,Ischemic heart diseases
+I251,Ischemic heart diseases
+I212,Ischemic heart diseases
+I214,Ischemic heart diseases
+I220,Ischemic heart diseases
+I229,Ischemic heart diseases
+I248,Ischemic heart diseases
+I255,Ischemic heart diseases
+I219,Ischemic heart diseases
+I213,Ischemic heart diseases
+I249,Ischemic heart diseases
+I208,Ischemic heart diseases
+I256,Ischemic heart diseases
+I258,Ischemic heart diseases
+I210,Ischemic heart diseases
+I221,Ischemic heart diseases
+I254,Ischemic heart diseases
+I200,Ischemic heart diseases
+I443,Other diseases of heart
+I289,Other diseases of heart
+I311,Other diseases of heart
+I349,Other diseases of heart
+I011,Other diseases of heart
+I459,Other diseases of heart
+I270,Other diseases of heart
+I271,Other diseases of heart
+I510,Other diseases of heart
+I425,Other diseases of heart
+I018,Other diseases of heart
+I060,Other diseases of heart
+I442,Other diseases of heart
+I498,Other diseases of heart
+I301,Other diseases of heart
+I071,Other diseases of heart
+I312,Other diseases of heart
+I447,Other diseases of heart
+I058,Other diseases of heart
+I48,Other diseases of heart
+I490,Other diseases of heart
+I401,Other diseases of heart
+I352,Other diseases of heart
+I408,Other diseases of heart
+I061,Other diseases of heart
+I515,Other diseases of heart
+I479,Other diseases of heart
+I429,Other diseases of heart
+I428,Other diseases of heart
+I368,Other diseases of heart
+I330,Other diseases of heart
+I422,Other diseases of heart
+I421,Other diseases of heart
+I472,Other diseases of heart
+I469,Other diseases of heart
+I499,Other diseases of heart
+I494,Other diseases of heart
+I348,Other diseases of heart
+I081,Other diseases of heart
+I019,Other diseases of heart
+I069,Other diseases of heart
+I051,Other diseases of heart
+I079,Other diseases of heart
+I509,Other diseases of heart
+I279,Other diseases of heart
+I423,Other diseases of heart
+I050,Other diseases of heart
+I38,Other diseases of heart
+I513,Other diseases of heart
+I090,Other diseases of heart
+I313,Other diseases of heart
+I370,Other diseases of heart
+I062,Other diseases of heart
+I309,Other diseases of heart
+I310,Other diseases of heart
+I441,Other diseases of heart
+I260,Other diseases of heart
+I281,Other diseases of heart
+I091,Other diseases of heart
+I070,Other diseases of heart
+I092,Other diseases of heart
+I455,Other diseases of heart
+I451,Other diseases of heart
+I519,Other diseases of heart
+I068,Other diseases of heart
+I00,Other diseases of heart
+I458,Other diseases of heart
+I052,Other diseases of heart
+I514,Other diseases of heart
+I501,Other diseases of heart
+I453,Other diseases of heart
+I269,Other diseases of heart
+I099,Other diseases of heart
+I471,Other diseases of heart
+I272,Other diseases of heart
+I351,Other diseases of heart
+I350,Other diseases of heart
+I319,Other diseases of heart
+I409,Other diseases of heart
+I512,Other diseases of heart
+I082,Other diseases of heart
+I340,Other diseases of heart
+I010,Other diseases of heart
+I420,Other diseases of heart
+I500,Other diseases of heart
+I339,Other diseases of heart
+I427,Other diseases of heart
+I362,Other diseases of heart
+I088,Other diseases of heart
+I098,Other diseases of heart
+I300,Other diseases of heart
+I288,Other diseases of heart
+I029,Other diseases of heart
+I078,Other diseases of heart
+I278,Other diseases of heart
+I379,Other diseases of heart
+I378,Other diseases of heart
+I493,Other diseases of heart
+I358,Other diseases of heart
+I518,Other diseases of heart
+I089,Other diseases of heart
+I359,Other diseases of heart
+I470,Other diseases of heart
+I059,Other diseases of heart
+I318,Other diseases of heart
+I461,Other diseases of heart
+I280,Other diseases of heart
+I460,Other diseases of heart
+I456,Other diseases of heart
+I426,Other diseases of heart
+I511,Other diseases of heart
+I454,Other diseases of heart
+I491,Other diseases of heart
+I516,Other diseases of heart
+I444,Other diseases of heart
+I400,Other diseases of heart
+I361,Other diseases of heart
+I072,Other diseases of heart
+I341,Other diseases of heart
+I440,Other diseases of heart
+I308,Other diseases of heart
+I080,Other diseases of heart
+I452,Other diseases of heart
+I083,Other diseases of heart
+I517,Other diseases of heart
+I424,Other diseases of heart
+I369,Other diseases of heart
+I372,Other diseases of heart
+I371,Other diseases of heart
+I342,Other diseases of heart
+I495,Other diseases of heart
+I129,Essential
+I10,Essential
+I120,Essential
+I159,Essential
+I150,Essential
+I679,Cerebrovascular diseases
+I632,Cerebrovascular diseases
+I607,Cerebrovascular diseases
+I675,Cerebrovascular diseases
+I600,Cerebrovascular diseases
+I605,Cerebrovascular diseases
+I620,Cerebrovascular diseases
+I616,Cerebrovascular diseases
+I673,Cerebrovascular diseases
+I621,Cerebrovascular diseases
+I619,Cerebrovascular diseases
+I690,Cerebrovascular diseases
+I691,Cerebrovascular diseases
+I676,Cerebrovascular diseases
+I610,Cerebrovascular diseases
+I634,Cerebrovascular diseases
+I698,Cerebrovascular diseases
+I613,Cerebrovascular diseases
+I604,Cerebrovascular diseases
+I638,Cerebrovascular diseases
+I608,Cerebrovascular diseases
+I633,Cerebrovascular diseases
+I677,Cerebrovascular diseases
+I671,Cerebrovascular diseases
+I629,Cerebrovascular diseases
+I612,Cerebrovascular diseases
+I631,Cerebrovascular diseases
+I630,Cerebrovascular diseases
+I615,Cerebrovascular diseases
+I678,Cerebrovascular diseases
+I601,Cerebrovascular diseases
+I618,Cerebrovascular diseases
+I609,Cerebrovascular diseases
+I635,Cerebrovascular diseases
+I636,Cerebrovascular diseases
+I670,Cerebrovascular diseases
+I602,Cerebrovascular diseases
+I674,Cerebrovascular diseases
+I606,Cerebrovascular diseases
+I639,Cerebrovascular diseases
+I693,Cerebrovascular diseases
+I611,Cerebrovascular diseases
+I694,Cerebrovascular diseases
+I672,Cerebrovascular diseases
+I64,Cerebrovascular diseases
+I614,Cerebrovascular diseases
+I692,Cerebrovascular diseases
+I708,Atherosclerosis
+I701,Atherosclerosis
+I702,Atherosclerosis
+I709,Atherosclerosis
+I700,Atherosclerosis
+I713,Other diseases of circulatory system
+I718,Other diseases of circulatory system
+I748,Other diseases of circulatory system
+I788,Other diseases of circulatory system
+I710,Other diseases of circulatory system
+I778,Other diseases of circulatory system
+I773,Other diseases of circulatory system
+I721,Other diseases of circulatory system
+I723,Other diseases of circulatory system
+I729,Other diseases of circulatory system
+I739,Other diseases of circulatory system
+I749,Other diseases of circulatory system
+I725,Other diseases of circulatory system
+I711,Other diseases of circulatory system
+I779,Other diseases of circulatory system
+I712,Other diseases of circulatory system
+I776,Other diseases of circulatory system
+I728,Other diseases of circulatory system
+I714,Other diseases of circulatory system
+I771,Other diseases of circulatory system
+I770,Other diseases of circulatory system
+I742,Other diseases of circulatory system
+I774,Other diseases of circulatory system
+I724,Other diseases of circulatory system
+I730,Other diseases of circulatory system
+I781,Other diseases of circulatory system
+I740,Other diseases of circulatory system
+I741,Other diseases of circulatory system
+I716,Other diseases of circulatory system
+I772,Other diseases of circulatory system
+I731,Other diseases of circulatory system
+I789,Other diseases of circulatory system
+I720,Other diseases of circulatory system
+I780,Other diseases of circulatory system
+I722,Other diseases of circulatory system
+I743,Other diseases of circulatory system
+I715,Other diseases of circulatory system
+I719,Other diseases of circulatory system
+I738,Other diseases of circulatory system
+I775,Other diseases of circulatory system
+I744,Other diseases of circulatory system
+I745,Other diseases of circulatory system
+J110,Influenza and pneumonia
+J155,Influenza and pneumonia
+J101,Influenza and pneumonia
+J150,Influenza and pneumonia
+J123,Influenza and pneumonia
+J154,Influenza and pneumonia
+J118,Influenza and pneumonia
+J108,Influenza and pneumonia
+J153,Influenza and pneumonia
+J188,Influenza and pneumonia
+J14,Influenza and pneumonia
+J120,Influenza and pneumonia
+J152,Influenza and pneumonia
+J129,Influenza and pneumonia
+J168,Influenza and pneumonia
+J121,Influenza and pneumonia
+J160,Influenza and pneumonia
+J189,Influenza and pneumonia
+J128,Influenza and pneumonia
+J13,Influenza and pneumonia
+J100,Influenza and pneumonia
+J111,Influenza and pneumonia
+J157,Influenza and pneumonia
+J180,Influenza and pneumonia
+J182,Influenza and pneumonia
+J09,Influenza and pneumonia
+J151,Influenza and pneumonia
+J122,Influenza and pneumonia
+J159,Influenza and pneumonia
+J158,Influenza and pneumonia
+J156,Influenza and pneumonia
+J181,Influenza and pneumonia
+J448,Chronic lower resp diseases
+J410,Chronic lower resp diseases
+J40,Chronic lower resp diseases
+J42,Chronic lower resp diseases
+J449,Chronic lower resp diseases
+J411,Chronic lower resp diseases
+J438,Chronic lower resp diseases
+J439,Chronic lower resp diseases
+J47,Chronic lower resp diseases
+J46,Chronic lower resp diseases
+J441,Chronic lower resp diseases
+J440,Chronic lower resp diseases
+J432,Chronic lower resp diseases
+J450,Chronic lower resp diseases
+J459,Chronic lower resp diseases
+J458,Chronic lower resp diseases
+J430,Chronic lower resp diseases
+J451,Chronic lower resp diseases
+J431,Chronic lower resp diseases
+K259,Peptic ulcer
+K251,Peptic ulcer
+K263,Peptic ulcer
+K271,Peptic ulcer
+K281,Peptic ulcer
+K250,Peptic ulcer
+K284,Peptic ulcer
+K265,Peptic ulcer
+K257,Peptic ulcer
+K261,Peptic ulcer
+K256,Peptic ulcer
+K260,Peptic ulcer
+K255,Peptic ulcer
+K262,Peptic ulcer
+K266,Peptic ulcer
+K254,Peptic ulcer
+K280,Peptic ulcer
+K283,Peptic ulcer
+K287,Peptic ulcer
+K285,Peptic ulcer
+K286,Peptic ulcer
+K274,Peptic ulcer
+K270,Peptic ulcer
+K252,Peptic ulcer
+K273,Peptic ulcer
+K275,Peptic ulcer
+K264,Peptic ulcer
+K272,Peptic ulcer
+K267,Peptic ulcer
+K253,Peptic ulcer
+K277,Peptic ulcer
+K279,Peptic ulcer
+K276,Peptic ulcer
+K289,Peptic ulcer
+K269,Peptic ulcer
+K743,Chronic liver disease and cirrhosis
+K701,Chronic liver disease and cirrhosis
+K730,Chronic liver disease and cirrhosis
+K746,Chronic liver disease and cirrhosis
+K739,Chronic liver disease and cirrhosis
+K745,Chronic liver disease and cirrhosis
+K700,Chronic liver disease and cirrhosis
+K738,Chronic liver disease and cirrhosis
+K741,Chronic liver disease and cirrhosis
+K703,Chronic liver disease and cirrhosis
+K740,Chronic liver disease and cirrhosis
+K744,Chronic liver disease and cirrhosis
+K732,Chronic liver disease and cirrhosis
+K702,Chronic liver disease and cirrhosis
+K704,Chronic liver disease and cirrhosis
+K709,Chronic liver disease and cirrhosis
+N171,Nephritis nephrotic syndrome and nephrosis
+N017,Nephritis nephrotic syndrome and nephrosis
+N185,Nephritis nephrotic syndrome and nephrosis
+N029,Nephritis nephrotic syndrome and nephrosis
+N172,Nephritis nephrotic syndrome and nephrosis
+N031,Nephritis nephrotic syndrome and nephrosis
+N039,Nephritis nephrotic syndrome and nephrosis
+N038,Nephritis nephrotic syndrome and nephrosis
+N048,Nephritis nephrotic syndrome and nephrosis
+N181,Nephritis nephrotic syndrome and nephrosis
+N049,Nephritis nephrotic syndrome and nephrosis
+N188,Nephritis nephrotic syndrome and nephrosis
+N035,Nephritis nephrotic syndrome and nephrosis
+N059,Nephritis nephrotic syndrome and nephrosis
+N009,Nephritis nephrotic syndrome and nephrosis
+N189,Nephritis nephrotic syndrome and nephrosis
+N26,Nephritis nephrotic syndrome and nephrosis
+N057,Nephritis nephrotic syndrome and nephrosis
+N179,Nephritis nephrotic syndrome and nephrosis
+N040,Nephritis nephrotic syndrome and nephrosis
+N018,Nephritis nephrotic syndrome and nephrosis
+N001,Nephritis nephrotic syndrome and nephrosis
+N279,Nephritis nephrotic syndrome and nephrosis
+N180,Nephritis nephrotic syndrome and nephrosis
+N182,Nephritis nephrotic syndrome and nephrosis
+N000,Nephritis nephrotic syndrome and nephrosis
+N259,Nephritis nephrotic syndrome and nephrosis
+N055,Nephritis nephrotic syndrome and nephrosis
+N052,Nephritis nephrotic syndrome and nephrosis
+N008,Nephritis nephrotic syndrome and nephrosis
+N19,Nephritis nephrotic syndrome and nephrosis
+N178,Nephritis nephrotic syndrome and nephrosis
+N045,Nephritis nephrotic syndrome and nephrosis
+N170,Nephritis nephrotic syndrome and nephrosis
+N071,Nephritis nephrotic syndrome and nephrosis
+N053,Nephritis nephrotic syndrome and nephrosis
+N271,Nephritis nephrotic syndrome and nephrosis
+N184,Nephritis nephrotic syndrome and nephrosis
+N051,Nephritis nephrotic syndrome and nephrosis
+N022,Nephritis nephrotic syndrome and nephrosis
+N258,Nephritis nephrotic syndrome and nephrosis
+N050,Nephritis nephrotic syndrome and nephrosis
+N183,Nephritis nephrotic syndrome and nephrosis
+N251,Nephritis nephrotic syndrome and nephrosis
+N058,Nephritis nephrotic syndrome and nephrosis
+N028,Nephritis nephrotic syndrome and nephrosis
+N079,Nephritis nephrotic syndrome and nephrosis
+N250,Nephritis nephrotic syndrome and nephrosis
+N019,Nephritis nephrotic syndrome and nephrosis
+O058,Pregnancy childbirth and the puerperium
+O994,Pregnancy childbirth and the puerperium
+O047,Pregnancy childbirth and the puerperium
+O904,Pregnancy childbirth and the puerperium
+O912,Pregnancy childbirth and the puerperium
+O038,Pregnancy childbirth and the puerperium
+O074,Pregnancy childbirth and the puerperium
+O722,Pregnancy childbirth and the puerperium
+O759,Pregnancy childbirth and the puerperium
+O60,Pregnancy childbirth and the puerperium
+O468,Pregnancy childbirth and the puerperium
+O063,Pregnancy childbirth and the puerperium
+O751,Pregnancy childbirth and the puerperium
+O067,Pregnancy childbirth and the puerperium
+O873,Pregnancy childbirth and the puerperium
+O009,Pregnancy childbirth and the puerperium
+O345,Pregnancy childbirth and the puerperium
+O715,Pregnancy childbirth and the puerperium
+O723,Pregnancy childbirth and the puerperium
+O709,Pregnancy childbirth and the puerperium
+O441,Pregnancy childbirth and the puerperium
+O021,Pregnancy childbirth and the puerperium
+O961,Pregnancy childbirth and the puerperium
+O995,Pregnancy childbirth and the puerperium
+O020,Pregnancy childbirth and the puerperium
+O909,Pregnancy childbirth and the puerperium
+O291,Pregnancy childbirth and the puerperium
+O225,Pregnancy childbirth and the puerperium
+O103,Pregnancy childbirth and the puerperium
+O301,Pregnancy childbirth and the puerperium
+O031,Pregnancy childbirth and the puerperium
+O997,Pregnancy childbirth and the puerperium
+O069,Pregnancy childbirth and the puerperium
+O678,Pregnancy childbirth and the puerperium
+O988,Pregnancy childbirth and the puerperium
+O075,Pregnancy childbirth and the puerperium
+O911,Pregnancy childbirth and the puerperium
+O880,Pregnancy childbirth and the puerperium
+O363,Pregnancy childbirth and the puerperium
+O720,Pregnancy childbirth and the puerperium
+O033,Pregnancy childbirth and the puerperium
+O992,Pregnancy childbirth and the puerperium
+O223,Pregnancy childbirth and the puerperium
+O868,Pregnancy childbirth and the puerperium
+O459,Pregnancy childbirth and the puerperium
+O244,Pregnancy childbirth and the puerperium
+O240,Pregnancy childbirth and the puerperium
+O140,Pregnancy childbirth and the puerperium
+O984,Pregnancy childbirth and the puerperium
+O991,Pregnancy childbirth and the puerperium
+O750,Pregnancy childbirth and the puerperium
+O056,Pregnancy childbirth and the puerperium
+O348,Pregnancy childbirth and the puerperium
+O860,Pregnancy childbirth and the puerperium
+O11,Pregnancy childbirth and the puerperium
+O104,Pregnancy childbirth and the puerperium
+O292,Pregnancy childbirth and the puerperium
+O141,Pregnancy childbirth and the puerperium
+O340,Pregnancy childbirth and the puerperium
+O101,Pregnancy childbirth and the puerperium
+O078,Pregnancy childbirth and the puerperium
+O234,Pregnancy childbirth and the puerperium
+O266,Pregnancy childbirth and the puerperium
+O341,Pregnancy childbirth and the puerperium
+O001,Pregnancy childbirth and the puerperium
+O429,Pregnancy childbirth and the puerperium
+O065,Pregnancy childbirth and the puerperium
+O037,Pregnancy childbirth and the puerperium
+O268,Pregnancy childbirth and the puerperium
+O249,Pregnancy childbirth and the puerperium
+O432,Pregnancy childbirth and the puerperium
+O364,Pregnancy childbirth and the puerperium
+O879,Pregnancy childbirth and the puerperium
+O120,Pregnancy childbirth and the puerperium
+O679,Pregnancy childbirth and the puerperium
+O690,Pregnancy childbirth and the puerperium
+O068,Pregnancy childbirth and the puerperium
+O368,Pregnancy childbirth and the puerperium
+O060,Pregnancy childbirth and the puerperium
+O208,Pregnancy childbirth and the puerperium
+O621,Pregnancy childbirth and the puerperium
+O985,Pregnancy childbirth and the puerperium
+O981,Pregnancy childbirth and the puerperium
+O979,Pregnancy childbirth and the puerperium
+O339,Pregnancy childbirth and the puerperium
+O029,Pregnancy childbirth and the puerperium
+O077,Pregnancy childbirth and the puerperium
+O235,Pregnancy childbirth and the puerperium
+O623,Pregnancy childbirth and the puerperium
+O881,Pregnancy childbirth and the puerperium
+O960,Pregnancy childbirth and the puerperium
+O150,Pregnancy childbirth and the puerperium
+O102,Pregnancy childbirth and the puerperium
+O200,Pregnancy childbirth and the puerperium
+O622,Pregnancy childbirth and the puerperium
+O883,Pregnancy childbirth and the puerperium
+O717,Pregnancy childbirth and the puerperium
+O95,Pregnancy childbirth and the puerperium
+O048,Pregnancy childbirth and the puerperium
+O460,Pregnancy childbirth and the puerperium
+O714,Pregnancy childbirth and the puerperium
+O882,Pregnancy childbirth and the puerperium
+O993,Pregnancy childbirth and the puerperium
+O754,Pregnancy childbirth and the puerperium
+O980,Pregnancy childbirth and the puerperium
+O036,Pregnancy childbirth and the puerperium
+O008,Pregnancy childbirth and the puerperium
+O743,Pregnancy childbirth and the puerperium
+O878,Pregnancy childbirth and the puerperium
+O753,Pregnancy childbirth and the puerperium
+O96,Pregnancy childbirth and the puerperium
+O343,Pregnancy childbirth and the puerperium
+O13,Pregnancy childbirth and the puerperium
+O109,Pregnancy childbirth and the puerperium
+O990,Pregnancy childbirth and the puerperium
+O209,Pregnancy childbirth and the puerperium
+O888,Pregnancy childbirth and the puerperium
+O901,Pregnancy childbirth and the puerperium
+O749,Pregnancy childbirth and the puerperium
+O035,Pregnancy childbirth and the puerperium
+O639,Pregnancy childbirth and the puerperium
+O25,Pregnancy childbirth and the puerperium
+O998,Pregnancy childbirth and the puerperium
+O438,Pregnancy childbirth and the puerperium
+O019,Pregnancy childbirth and the puerperium
+O864,Pregnancy childbirth and the puerperium
+O059,Pregnancy childbirth and the puerperium
+O870,Pregnancy childbirth and the puerperium
+O721,Pregnancy childbirth and the puerperium
+O241,Pregnancy childbirth and the puerperium
+O903,Pregnancy childbirth and the puerperium
+O045,Pregnancy childbirth and the puerperium
+O898,Pregnancy childbirth and the puerperium
+O748,Pregnancy childbirth and the puerperium
+O644,Pregnancy childbirth and the puerperium
+O469,Pregnancy childbirth and the puerperium
+O450,Pregnancy childbirth and the puerperium
+O16,Pregnancy childbirth and the puerperium
+O264,Pregnancy childbirth and the puerperium
+O100,Pregnancy childbirth and the puerperium
+O900,Pregnancy childbirth and the puerperium
+O971,Pregnancy childbirth and the puerperium
+O243,Pregnancy childbirth and the puerperium
+O713,Pregnancy childbirth and the puerperium
+O871,Pregnancy childbirth and the puerperium
+O411,Pregnancy childbirth and the puerperium
+O076,Pregnancy childbirth and the puerperium
+O987,Pregnancy childbirth and the puerperium
+O152,Pregnancy childbirth and the puerperium
+O263,Pregnancy childbirth and the puerperium
+O758,Pregnancy childbirth and the puerperium
+O969,Pregnancy childbirth and the puerperium
+O85,Pregnancy childbirth and the puerperium
+O970,Pregnancy childbirth and the puerperium
+O97,Pregnancy childbirth and the puerperium
+O054,Pregnancy childbirth and the puerperium
+O996,Pregnancy childbirth and the puerperium
+O300,Pregnancy childbirth and the puerperium
+O670,Pregnancy childbirth and the puerperium
+O730,Pregnancy childbirth and the puerperium
+O265,Pregnancy childbirth and the puerperium
+O269,Pregnancy childbirth and the puerperium
+O689,Pregnancy childbirth and the puerperium
+O431,Pregnancy childbirth and the puerperium
+O365,Pregnancy childbirth and the puerperium
+O039,Pregnancy childbirth and the puerperium
+O159,Pregnancy childbirth and the puerperium
+O149,Pregnancy childbirth and the puerperium
+O710,Pregnancy childbirth and the puerperium
+O002,Pregnancy childbirth and the puerperium
+O321,Pregnancy childbirth and the puerperium
+O066,Pregnancy childbirth and the puerperium
+O698,Pregnancy childbirth and the puerperium
+O230,Pregnancy childbirth and the puerperium
+O073,Pregnancy childbirth and the puerperium
+O40,Pregnancy childbirth and the puerperium
+O229,Pregnancy childbirth and the puerperium
+O711,Pregnancy childbirth and the puerperium
+O210,Pregnancy childbirth and the puerperium
+O142,Pregnancy childbirth and the puerperium
+O731,Pregnancy childbirth and the puerperium
+O908,Pregnancy childbirth and the puerperium
+P371,Certain conds originating in the perinatal period
+P234,Certain conds originating in the perinatal period
+P398,Certain conds originating in the perinatal period
+P024,Certain conds originating in the perinatal period
+P90,Certain conds originating in the perinatal period
+P360,Certain conds originating in the perinatal period
+P020,Certain conds originating in the perinatal period
+P022,Certain conds originating in the perinatal period
+P525,Certain conds originating in the perinatal period
+P034,Certain conds originating in the perinatal period
+P279,Certain conds originating in the perinatal period
+P113,Certain conds originating in the perinatal period
+P039,Certain conds originating in the perinatal period
+P290,Certain conds originating in the perinatal period
+P560,Certain conds originating in the perinatal period
+P023,Certain conds originating in the perinatal period
+P298,Certain conds originating in the perinatal period
+P071,Certain conds originating in the perinatal period
+P544,Certain conds originating in the perinatal period
+P220,Certain conds originating in the perinatal period
+P519,Certain conds originating in the perinatal period
+P242,Certain conds originating in the perinatal period
+P960,Certain conds originating in the perinatal period
+P072,Certain conds originating in the perinatal period
+P915,Certain conds originating in the perinatal period
+P050,Certain conds originating in the perinatal period
+P284,Certain conds originating in the perinatal period
+P77,Certain conds originating in the perinatal period
+P051,Certain conds originating in the perinatal period
+P523,Certain conds originating in the perinatal period
+P018,Certain conds originating in the perinatal period
+P258,Certain conds originating in the perinatal period
+P769,Certain conds originating in the perinatal period
+P292,Certain conds originating in the perinatal period
+P919,Certain conds originating in the perinatal period
+P073,Certain conds originating in the perinatal period
+P558,Certain conds originating in the perinatal period
+P399,Certain conds originating in the perinatal period
+P032,Certain conds originating in the perinatal period
+P920,Certain conds originating in the perinatal period
+P249,Certain conds originating in the perinatal period
+P350,Certain conds originating in the perinatal period
+P592,Certain conds originating in the perinatal period
+P701,Certain conds originating in the perinatal period
+P832,Certain conds originating in the perinatal period
+P012,Certain conds originating in the perinatal period
+P004,Certain conds originating in the perinatal period
+P238,Certain conds originating in the perinatal period
+P035,Certain conds originating in the perinatal period
+P278,Certain conds originating in the perinatal period
+P965,Certain conds originating in the perinatal period
+P283,Certain conds originating in the perinatal period
+P289,Certain conds originating in the perinatal period
+P119,Certain conds originating in the perinatal period
+P253,Certain conds originating in the perinatal period
+P819,Certain conds originating in the perinatal period
+P052,Certain conds originating in the perinatal period
+P582,Certain conds originating in the perinatal period
+P500,Certain conds originating in the perinatal period
+P962,Certain conds originating in the perinatal period
+P002,Certain conds originating in the perinatal period
+P375,Certain conds originating in the perinatal period
+P235,Certain conds originating in the perinatal period
+P914,Certain conds originating in the perinatal period
+P010,Certain conds originating in the perinatal period
+P912,Certain conds originating in the perinatal period
+P231,Certain conds originating in the perinatal period
+P025,Certain conds originating in the perinatal period
+P280,Certain conds originating in the perinatal period
+P017,Certain conds originating in the perinatal period
+P241,Certain conds originating in the perinatal period
+P38,Certain conds originating in the perinatal period
+P768,Certain conds originating in the perinatal period
+P044,Certain conds originating in the perinatal period
+P362,Certain conds originating in the perinatal period
+P611,Certain conds originating in the perinatal period
+P546,Certain conds originating in the perinatal period
+P781,Certain conds originating in the perinatal period
+P059,Certain conds originating in the perinatal period
+P961,Certain conds originating in the perinatal period
+P614,Certain conds originating in the perinatal period
+P53,Certain conds originating in the perinatal period
+P102,Certain conds originating in the perinatal period
+P271,Certain conds originating in the perinatal period
+P923,Certain conds originating in the perinatal period
+P003,Certain conds originating in the perinatal period
+P236,Certain conds originating in the perinatal period
+P129,Certain conds originating in the perinatal period
+P549,Certain conds originating in the perinatal period
+P019,Certain conds originating in the perinatal period
+P359,Certain conds originating in the perinatal period
+P041,Certain conds originating in the perinatal period
+P942,Certain conds originating in the perinatal period
+P128,Certain conds originating in the perinatal period
+P219,Certain conds originating in the perinatal period
+P031,Certain conds originating in the perinatal period
+P618,Certain conds originating in the perinatal period
+P252,Certain conds originating in the perinatal period
+P526,Certain conds originating in the perinatal period
+P761,Certain conds originating in the perinatal period
+P838,Certain conds originating in the perinatal period
+P60,Certain conds originating in the perinatal period
+P109,Certain conds originating in the perinatal period
+P369,Certain conds originating in the perinatal period
+P043,Certain conds originating in the perinatal period
+P364,Certain conds originating in the perinatal period
+P721,Certain conds originating in the perinatal period
+P916,Certain conds originating in the perinatal period
+P006,Certain conds originating in the perinatal period
+P591,Certain conds originating in the perinatal period
+P030,Certain conds originating in the perinatal period
+P240,Certain conds originating in the perinatal period
+P000,Certain conds originating in the perinatal period
+P239,Certain conds originating in the perinatal period
+P016,Certain conds originating in the perinatal period
+P394,Certain conds originating in the perinatal period
+P139,Certain conds originating in the perinatal period
+P783,Certain conds originating in the perinatal period
+P070,Certain conds originating in the perinatal period
+P910,Certain conds originating in the perinatal period
+P918,Certain conds originating in the perinatal period
+P230,Certain conds originating in the perinatal period
+P221,Certain conds originating in the perinatal period
+P579,Certain conds originating in the perinatal period
+P504,Certain conds originating in the perinatal period
+P808,Certain conds originating in the perinatal period
+P616,Certain conds originating in the perinatal period
+P288,Certain conds originating in the perinatal period
+P363,Certain conds originating in the perinatal period
+P610,Certain conds originating in the perinatal period
+P005,Certain conds originating in the perinatal period
+P522,Certain conds originating in the perinatal period
+P008,Certain conds originating in the perinatal period
+P250,Certain conds originating in the perinatal period
+P372,Certain conds originating in the perinatal period
+P269,Certain conds originating in the perinatal period
+P588,Certain conds originating in the perinatal period
+P368,Certain conds originating in the perinatal period
+P521,Certain conds originating in the perinatal period
+P101,Certain conds originating in the perinatal period
+P112,Certain conds originating in the perinatal period
+P009,Certain conds originating in the perinatal period
+P509,Certain conds originating in the perinatal period
+P291,Certain conds originating in the perinatal period
+P149,Certain conds originating in the perinatal period
+P941,Certain conds originating in the perinatal period
+P029,Certain conds originating in the perinatal period
+P048,Certain conds originating in the perinatal period
+P969,Certain conds originating in the perinatal period
+P352,Certain conds originating in the perinatal period
+P545,Certain conds originating in the perinatal period
+P612,Certain conds originating in the perinatal period
+P818,Certain conds originating in the perinatal period
+P299,Certain conds originating in the perinatal period
+P027,Certain conds originating in the perinatal period
+P115,Certain conds originating in the perinatal period
+P110,Certain conds originating in the perinatal period
+P358,Certain conds originating in the perinatal period
+P285,Certain conds originating in the perinatal period
+P233,Certain conds originating in the perinatal period
+P038,Certain conds originating in the perinatal period
+P968,Certain conds originating in the perinatal period
+P228,Certain conds originating in the perinatal period
+P598,Certain conds originating in the perinatal period
+P007,Certain conds originating in the perinatal period
+P543,Certain conds originating in the perinatal period
+P392,Certain conds originating in the perinatal period
+P251,Certain conds originating in the perinatal period
+P028,Certain conds originating in the perinatal period
+P809,Certain conds originating in the perinatal period
+P158,Certain conds originating in the perinatal period
+P351,Certain conds originating in the perinatal period
+P243,Certain conds originating in the perinatal period
+P911,Certain conds originating in the perinatal period
+P248,Certain conds originating in the perinatal period
+P026,Certain conds originating in the perinatal period
+P013,Certain conds originating in the perinatal period
+P232,Certain conds originating in the perinatal period
+P015,Certain conds originating in the perinatal period
+P042,Certain conds originating in the perinatal period
+P229,Certain conds originating in the perinatal period
+P508,Certain conds originating in the perinatal period
+P293,Certain conds originating in the perinatal period
+P353,Certain conds originating in the perinatal period
+P800,Certain conds originating in the perinatal period
+P788,Certain conds originating in the perinatal period
+P268,Certain conds originating in the perinatal period
+P929,Certain conds originating in the perinatal period
+P940,Certain conds originating in the perinatal period
+P011,Certain conds originating in the perinatal period
+P760,Certain conds originating in the perinatal period
+P550,Certain conds originating in the perinatal period
+P921,Certain conds originating in the perinatal period
+P260,Certain conds originating in the perinatal period
+P551,Certain conds originating in the perinatal period
+P014,Certain conds originating in the perinatal period
+P964,Certain conds originating in the perinatal period
+P548,Certain conds originating in the perinatal period
+P294,Certain conds originating in the perinatal period
+P524,Certain conds originating in the perinatal period
+P378,Certain conds originating in the perinatal period
+P140,Certain conds originating in the perinatal period
+P619,Certain conds originating in the perinatal period
+P200,Certain conds originating in the perinatal period
+P520,Certain conds originating in the perinatal period
+P046,Certain conds originating in the perinatal period
+P780,Certain conds originating in the perinatal period
+P021,Certain conds originating in the perinatal period
+P082,Certain conds originating in the perinatal period
+P201,Certain conds originating in the perinatal period
+P111,Certain conds originating in the perinatal period
+P789,Certain conds originating in the perinatal period
+P370,Certain conds originating in the perinatal period
+P584,Certain conds originating in the perinatal period
+P159,Certain conds originating in the perinatal period
+P270,Certain conds originating in the perinatal period
+P393,Certain conds originating in the perinatal period
+P281,Certain conds originating in the perinatal period
+P151,Certain conds originating in the perinatal period
+P036,Certain conds originating in the perinatal period
+P529,Certain conds originating in the perinatal period
+P209,Certain conds originating in the perinatal period
+P374,Certain conds originating in the perinatal period
+P210,Certain conds originating in the perinatal period
+P033,Certain conds originating in the perinatal period
+P702,Certain conds originating in the perinatal period
+P518,Certain conds originating in the perinatal period
+P833,Certain conds originating in the perinatal period
+P570,Certain conds originating in the perinatal period
+P501,Certain conds originating in the perinatal period
+P613,Certain conds originating in the perinatal period
+P559,Certain conds originating in the perinatal period
+P615,Certain conds originating in the perinatal period
+P150,Certain conds originating in the perinatal period
+P049,Certain conds originating in the perinatal period
+P001,Certain conds originating in the perinatal period
+P599,Certain conds originating in the perinatal period
+P839,Certain conds originating in the perinatal period
+P282,Certain conds originating in the perinatal period
+P365,Certain conds originating in the perinatal period
+P361,Certain conds originating in the perinatal period
+P120,Certain conds originating in the perinatal period
+P528,Certain conds originating in the perinatal period
+P700,Certain conds originating in the perinatal period
+P261,Certain conds originating in the perinatal period
+Q620,Congenital malformations deformations and chromosomal..
+Q434,Congenital malformations deformations and chromosomal..
+Q319,Congenital malformations deformations and chromosomal..
+Q729,Congenital malformations deformations and chromosomal..
+Q777,Congenital malformations deformations and chromosomal..
+Q228,Congenital malformations deformations and chromosomal..
+Q231,Congenital malformations deformations and chromosomal..
+Q180,Congenital malformations deformations and chromosomal..
+Q289,Congenital malformations deformations and chromosomal..
+Q754,Congenital malformations deformations and chromosomal..
+Q210,Congenital malformations deformations and chromosomal..
+Q773,Congenital malformations deformations and chromosomal..
+Q612,Congenital malformations deformations and chromosomal..
+Q652,Congenital malformations deformations and chromosomal..
+Q527,Congenital malformations deformations and chromosomal..
+Q018,Congenital malformations deformations and chromosomal..
+Q798,Congenital malformations deformations and chromosomal..
+Q079,Congenital malformations deformations and chromosomal..
+Q753,Congenital malformations deformations and chromosomal..
+Q519,Congenital malformations deformations and chromosomal..
+Q046,Congenital malformations deformations and chromosomal..
+Q915,Congenital malformations deformations and chromosomal..
+Q676,Congenital malformations deformations and chromosomal..
+Q783,Congenital malformations deformations and chromosomal..
+Q419,Congenital malformations deformations and chromosomal..
+Q392,Congenital malformations deformations and chromosomal..
+Q930,Congenital malformations deformations and chromosomal..
+Q208,Congenital malformations deformations and chromosomal..
+Q648,Congenital malformations deformations and chromosomal..
+Q222,Congenital malformations deformations and chromosomal..
+Q206,Congenital malformations deformations and chromosomal..
+Q313,Congenital malformations deformations and chromosomal..
+Q439,Congenital malformations deformations and chromosomal..
+Q320,Congenital malformations deformations and chromosomal..
+Q031,Congenital malformations deformations and chromosomal..
+Q772,Congenital malformations deformations and chromosomal..
+Q059,Congenital malformations deformations and chromosomal..
+Q255,Congenital malformations deformations and chromosomal..
+Q334,Congenital malformations deformations and chromosomal..
+Q245,Congenital malformations deformations and chromosomal..
+Q936,Congenital malformations deformations and chromosomal..
+Q232,Congenital malformations deformations and chromosomal..
+Q062,Congenital malformations deformations and chromosomal..
+Q050,Congenital malformations deformations and chromosomal..
+Q978,Congenital malformations deformations and chromosomal..
+Q263,Congenital malformations deformations and chromosomal..
+Q383,Congenital malformations deformations and chromosomal..
+Q223,Congenital malformations deformations and chromosomal..
+Q601,Congenital malformations deformations and chromosomal..
+Q274,Congenital malformations deformations and chromosomal..
+Q796,Congenital malformations deformations and chromosomal..
+Q395,Congenital malformations deformations and chromosomal..
+Q724,Congenital malformations deformations and chromosomal..
+Q999,Congenital malformations deformations and chromosomal..
+Q412,Congenital malformations deformations and chromosomal..
+Q623,Congenital malformations deformations and chromosomal..
+Q459,Congenital malformations deformations and chromosomal..
+Q441,Congenital malformations deformations and chromosomal..
+Q872,Congenital malformations deformations and chromosomal..
+Q619,Congenital malformations deformations and chromosomal..
+Q719,Congenital malformations deformations and chromosomal..
+Q780,Congenital malformations deformations and chromosomal..
+Q858,Congenital malformations deformations and chromosomal..
+Q771,Congenital malformations deformations and chromosomal..
+Q338,Congenital malformations deformations and chromosomal..
+Q233,Congenital malformations deformations and chromosomal..
+Q899,Congenital malformations deformations and chromosomal..
+Q934,Congenital malformations deformations and chromosomal..
+Q430,Congenital malformations deformations and chromosomal..
+Q429,Congenital malformations deformations and chromosomal..
+Q234,Congenital malformations deformations and chromosomal..
+Q238,Congenital malformations deformations and chromosomal..
+Q278,Congenital malformations deformations and chromosomal..
+Q764,Congenital malformations deformations and chromosomal..
+Q829,Congenital malformations deformations and chromosomal..
+Q309,Congenital malformations deformations and chromosomal..
+Q611,Congenital malformations deformations and chromosomal..
+Q870,Congenital malformations deformations and chromosomal..
+Q897,Congenital malformations deformations and chromosomal..
+Q647,Congenital malformations deformations and chromosomal..
+Q799,Congenital malformations deformations and chromosomal..
+Q962,Congenital malformations deformations and chromosomal..
+Q643,Congenital malformations deformations and chromosomal..
+Q828,Congenital malformations deformations and chromosomal..
+Q182,Congenital malformations deformations and chromosomal..
+Q445,Congenital malformations deformations and chromosomal..
+Q219,Congenital malformations deformations and chromosomal..
+Q403,Congenital malformations deformations and chromosomal..
+Q301,Congenital malformations deformations and chromosomal..
+Q762,Congenital malformations deformations and chromosomal..
+Q809,Congenital malformations deformations and chromosomal..
+Q775,Congenital malformations deformations and chromosomal..
+Q769,Congenital malformations deformations and chromosomal..
+Q250,Congenital malformations deformations and chromosomal..
+Q781,Congenital malformations deformations and chromosomal..
+Q614,Congenital malformations deformations and chromosomal..
+Q929,Congenital malformations deformations and chromosomal..
+Q399,Congenital malformations deformations and chromosomal..
+Q386,Congenital malformations deformations and chromosomal..
+Q312,Congenital malformations deformations and chromosomal..
+Q730,Congenital malformations deformations and chromosomal..
+Q310,Congenital malformations deformations and chromosomal..
+Q279,Congenital malformations deformations and chromosomal..
+Q057,Congenital malformations deformations and chromosomal..
+Q699,Congenital malformations deformations and chromosomal..
+Q992,Congenital malformations deformations and chromosomal..
+Q559,Congenital malformations deformations and chromosomal..
+Q369,Congenital malformations deformations and chromosomal..
+Q02,Congenital malformations deformations and chromosomal..
+Q185,Congenital malformations deformations and chromosomal..
+Q453,Congenital malformations deformations and chromosomal..
+Q244,Congenital malformations deformations and chromosomal..
+Q253,Congenital malformations deformations and chromosomal..
+Q789,Congenital malformations deformations and chromosomal..
+Q378,Congenital malformations deformations and chromosomal..
+Q750,Congenital malformations deformations and chromosomal..
+Q998,Congenital malformations deformations and chromosomal..
+Q359,Congenital malformations deformations and chromosomal..
+Q038,Congenital malformations deformations and chromosomal..
+Q833,Congenital malformations deformations and chromosomal..
+Q272,Congenital malformations deformations and chromosomal..
+Q613,Congenital malformations deformations and chromosomal..
+Q981,Congenital malformations deformations and chromosomal..
+Q610,Congenital malformations deformations and chromosomal..
+Q818,Congenital malformations deformations and chromosomal..
+Q043,Congenital malformations deformations and chromosomal..
+Q602,Congenital malformations deformations and chromosomal..
+Q955,Congenital malformations deformations and chromosomal..
+Q055,Congenital malformations deformations and chromosomal..
+Q909,Congenital malformations deformations and chromosomal..
+Q422,Congenital malformations deformations and chromosomal..
+Q221,Congenital malformations deformations and chromosomal..
+Q921,Congenital malformations deformations and chromosomal..
+Q321,Congenital malformations deformations and chromosomal..
+Q823,Congenital malformations deformations and chromosomal..
+Q959,Congenital malformations deformations and chromosomal..
+Q447,Congenital malformations deformations and chromosomal..
+Q000,Congenital malformations deformations and chromosomal..
+Q349,Congenital malformations deformations and chromosomal..
+Q040,Congenital malformations deformations and chromosomal..
+Q927,Congenital malformations deformations and chromosomal..
+Q394,Congenital malformations deformations and chromosomal..
+Q242,Congenital malformations deformations and chromosomal..
+Q988,Congenital malformations deformations and chromosomal..
+Q311,Congenital malformations deformations and chromosomal..
+Q564,Congenital malformations deformations and chromosomal..
+Q803,Congenital malformations deformations and chromosomal..
+Q058,Congenital malformations deformations and chromosomal..
+Q282,Congenital malformations deformations and chromosomal..
+Q240,Congenital malformations deformations and chromosomal..
+Q218,Congenital malformations deformations and chromosomal..
+Q939,Congenital malformations deformations and chromosomal..
+Q224,Congenital malformations deformations and chromosomal..
+Q051,Congenital malformations deformations and chromosomal..
+Q432,Congenital malformations deformations and chromosomal..
+Q070,Congenital malformations deformations and chromosomal..
+Q308,Congenital malformations deformations and chromosomal..
+Q271,Congenital malformations deformations and chromosomal..
+Q971,Congenital malformations deformations and chromosomal..
+Q987,Congenital malformations deformations and chromosomal..
+Q778,Congenital malformations deformations and chromosomal..
+Q433,Congenital malformations deformations and chromosomal..
+Q348,Congenital malformations deformations and chromosomal..
+Q628,Congenital malformations deformations and chromosomal..
+Q970,Congenital malformations deformations and chromosomal..
+Q214,Congenital malformations deformations and chromosomal..
+Q241,Congenital malformations deformations and chromosomal..
+Q618,Congenital malformations deformations and chromosomal..
+Q639,Congenital malformations deformations and chromosomal..
+Q246,Congenital malformations deformations and chromosomal..
+Q410,Congenital malformations deformations and chromosomal..
+Q257,Congenital malformations deformations and chromosomal..
+Q659,Congenital malformations deformations and chromosomal..
+Q932,Congenital malformations deformations and chromosomal..
+Q421,Congenital malformations deformations and chromosomal..
+Q793,Congenital malformations deformations and chromosomal..
+Q189,Congenital malformations deformations and chromosomal..
+Q056,Congenital malformations deformations and chromosomal..
+Q677,Congenital malformations deformations and chromosomal..
+Q790,Congenital malformations deformations and chromosomal..
+Q911,Congenital malformations deformations and chromosomal..
+Q822,Congenital malformations deformations and chromosomal..
+Q011,Congenital malformations deformations and chromosomal..
+Q281,Congenital malformations deformations and chromosomal..
+Q379,Congenital malformations deformations and chromosomal..
+Q251,Congenital malformations deformations and chromosomal..
+Q605,Congenital malformations deformations and chromosomal..
+Q874,Congenital malformations deformations and chromosomal..
+Q264,Congenital malformations deformations and chromosomal..
+Q738,Congenital malformations deformations and chromosomal..
+Q514,Congenital malformations deformations and chromosomal..
+Q323,Congenital malformations deformations and chromosomal..
+Q201,Congenital malformations deformations and chromosomal..
+Q204,Congenital malformations deformations and chromosomal..
+Q558,Congenital malformations deformations and chromosomal..
+Q638,Congenital malformations deformations and chromosomal..
+Q068,Congenital malformations deformations and chromosomal..
+Q984,Congenital malformations deformations and chromosomal..
+Q938,Congenital malformations deformations and chromosomal..
+Q898,Congenital malformations deformations and chromosomal..
+Q795,Congenital malformations deformations and chromosomal..
+Q529,Congenital malformations deformations and chromosomal..
+Q603,Congenital malformations deformations and chromosomal..
+Q894,Congenital malformations deformations and chromosomal..
+Q390,Congenital malformations deformations and chromosomal..
+Q850,Congenital malformations deformations and chromosomal..
+Q161,Congenital malformations deformations and chromosomal..
+Q258,Congenital malformations deformations and chromosomal..
+Q792,Congenital malformations deformations and chromosomal..
+Q935,Congenital malformations deformations and chromosomal..
+Q969,Congenital malformations deformations and chromosomal..
+Q950,Congenital malformations deformations and chromosomal..
+Q749,Congenital malformations deformations and chromosomal..
+Q985,Congenital malformations deformations and chromosomal..
+Q341,Congenital malformations deformations and chromosomal..
+Q675,Congenital malformations deformations and chromosomal..
+Q848,Congenital malformations deformations and chromosomal..
+Q411,Congenital malformations deformations and chromosomal..
+Q401,Congenital malformations deformations and chromosomal..
+Q256,Congenital malformations deformations and chromosomal..
+Q668,Congenital malformations deformations and chromosomal..
+Q393,Congenital malformations deformations and chromosomal..
+Q446,Congenital malformations deformations and chromosomal..
+Q660,Congenital malformations deformations and chromosomal..
+Q269,Congenital malformations deformations and chromosomal..
+Q621,Congenital malformations deformations and chromosomal..
+Q811,Congenital malformations deformations and chromosomal..
+Q960,Congenital malformations deformations and chromosomal..
+Q382,Congenital malformations deformations and chromosomal..
+Q794,Congenital malformations deformations and chromosomal..
+Q625,Congenital malformations deformations and chromosomal..
+Q423,Congenital malformations deformations and chromosomal..
+Q254,Congenital malformations deformations and chromosomal..
+Q259,Congenital malformations deformations and chromosomal..
+Q332,Congenital malformations deformations and chromosomal..
+Q917,Congenital malformations deformations and chromosomal..
+Q248,Congenital malformations deformations and chromosomal..
+Q642,Congenital malformations deformations and chromosomal..
+Q631,Congenital malformations deformations and chromosomal..
+Q748,Congenital malformations deformations and chromosomal..
+Q042,Congenital malformations deformations and chromosomal..
+Q458,Congenital malformations deformations and chromosomal..
+Q890,Congenital malformations deformations and chromosomal..
+Q931,Congenital malformations deformations and chromosomal..
+Q851,Congenital malformations deformations and chromosomal..
+Q039,Congenital malformations deformations and chromosomal..
+Q518,Congenital malformations deformations and chromosomal..
+Q318,Congenital malformations deformations and chromosomal..
+Q391,Congenital malformations deformations and chromosomal..
+Q273,Congenital malformations deformations and chromosomal..
+Q923,Congenital malformations deformations and chromosomal..
+Q901,Congenital malformations deformations and chromosomal..
+Q283,Congenital malformations deformations and chromosomal..
+Q774,Congenital malformations deformations and chromosomal..
+Q388,Congenital malformations deformations and chromosomal..
+Q385,Congenital malformations deformations and chromosomal..
+Q600,Congenital malformations deformations and chromosomal..
+Q431,Congenital malformations deformations and chromosomal..
+Q633,Congenital malformations deformations and chromosomal..
+Q862,Congenital malformations deformations and chromosomal..
+Q912,Congenital malformations deformations and chromosomal..
+Q742,Congenital malformations deformations and chromosomal..
+Q825,Congenital malformations deformations and chromosomal..
+Q265,Congenital malformations deformations and chromosomal..
+Q688,Congenital malformations deformations and chromosomal..
+Q103,Congenital malformations deformations and chromosomal..
+Q188,Congenital malformations deformations and chromosomal..
+Q641,Congenital malformations deformations and chromosomal..
+Q339,Congenital malformations deformations and chromosomal..
+Q554,Congenital malformations deformations and chromosomal..
+Q451,Congenital malformations deformations and chromosomal..
+Q606,Congenital malformations deformations and chromosomal..
+Q315,Congenital malformations deformations and chromosomal..
+Q069,Congenital malformations deformations and chromosomal..
+Q230,Congenital malformations deformations and chromosomal..
+Q010,Congenital malformations deformations and chromosomal..
+Q644,Congenital malformations deformations and chromosomal..
+Q322,Congenital malformations deformations and chromosomal..
+Q330,Congenital malformations deformations and chromosomal..
+Q893,Congenital malformations deformations and chromosomal..
+Q751,Congenital malformations deformations and chromosomal..
+Q658,Congenital malformations deformations and chromosomal..
+Q782,Congenital malformations deformations and chromosomal..
+Q049,Congenital malformations deformations and chromosomal..
+Q288,Congenital malformations deformations and chromosomal..
+Q776,Congenital malformations deformations and chromosomal..
+Q336,Congenital malformations deformations and chromosomal..
+Q766,Congenital malformations deformations and chromosomal..
+Q861,Congenital malformations deformations and chromosomal..
+Q808,Congenital malformations deformations and chromosomal..
+Q442,Congenital malformations deformations and chromosomal..
+Q387,Congenital malformations deformations and chromosomal..
+Q184,Congenital malformations deformations and chromosomal..
+Q213,Congenital malformations deformations and chromosomal..
+Q791,Congenital malformations deformations and chromosomal..
+Q859,Congenital malformations deformations and chromosomal..
+Q111,Congenital malformations deformations and chromosomal..
+Q891,Congenital malformations deformations and chromosomal..
+Q239,Congenital malformations deformations and chromosomal..
+Q435,Congenital malformations deformations and chromosomal..
+Q205,Congenital malformations deformations and chromosomal..
+Q532,Congenital malformations deformations and chromosomal..
+Q868,Congenital malformations deformations and chromosomal..
+Q444,Congenital malformations deformations and chromosomal..
+Q262,Congenital malformations deformations and chromosomal..
+Q741,Congenital malformations deformations and chromosomal..
+Q839,Congenital malformations deformations and chromosomal..
+Q819,Congenital malformations deformations and chromosomal..
+Q300,Congenital malformations deformations and chromosomal..
+Q203,Congenital malformations deformations and chromosomal..
+Q012,Congenital malformations deformations and chromosomal..
+Q649,Congenital malformations deformations and chromosomal..
+Q761,Congenital malformations deformations and chromosomal..
+Q130,Congenital malformations deformations and chromosomal..
+Q878,Congenital malformations deformations and chromosomal..
+Q200,Congenital malformations deformations and chromosomal..
+Q211,Congenital malformations deformations and chromosomal..
+Q340,Congenital malformations deformations and chromosomal..
+Q450,Congenital malformations deformations and chromosomal..
+Q044,Congenital malformations deformations and chromosomal..
+Q159,Congenital malformations deformations and chromosomal..
+Q925,Congenital malformations deformations and chromosomal..
+Q549,Congenital malformations deformations and chromosomal..
+Q989,Congenital malformations deformations and chromosomal..
+Q212,Congenital malformations deformations and chromosomal..
+Q268,Congenital malformations deformations and chromosomal..
+Q229,Congenital malformations deformations and chromosomal..
+Q933,Congenital malformations deformations and chromosomal..
+Q252,Congenital malformations deformations and chromosomal..
+Q916,Congenital malformations deformations and chromosomal..
+Q820,Congenital malformations deformations and chromosomal..
+Q615,Congenital malformations deformations and chromosomal..
+Q892,Congenital malformations deformations and chromosomal..
+Q703,Congenital malformations deformations and chromosomal..
+Q624,Congenital malformations deformations and chromosomal..
+Q840,Congenital malformations deformations and chromosomal..
+Q513,Congenital malformations deformations and chromosomal..
+Q871,Congenital malformations deformations and chromosomal..
+Q788,Congenital malformations deformations and chromosomal..
+Q438,Congenital malformations deformations and chromosomal..
+Q539,Congenital malformations deformations and chromosomal..
+Q760,Congenital malformations deformations and chromosomal..
+Q913,Congenital malformations deformations and chromosomal..
+Q713,Congenital malformations deformations and chromosomal..
+Q333,Congenital malformations deformations and chromosomal..
+Q048,Congenital malformations deformations and chromosomal..
+Q243,Congenital malformations deformations and chromosomal..
+Q266,Congenital malformations deformations and chromosomal..
+Q138,Congenital malformations deformations and chromosomal..
+Q437,Congenital malformations deformations and chromosomal..
+Q758,Congenital malformations deformations and chromosomal..
+Q019,Congenital malformations deformations and chromosomal..
+Q060,Congenital malformations deformations and chromosomal..
+Q928,Congenital malformations deformations and chromosomal..
+Q968,Congenital malformations deformations and chromosomal..
+Q731,Congenital malformations deformations and chromosomal..
+Q800,Congenital malformations deformations and chromosomal..
+Q743,Congenital malformations deformations and chromosomal..
+Q902,Congenital malformations deformations and chromosomal..
+Q512,Congenital malformations deformations and chromosomal..
+Q555,Congenital malformations deformations and chromosomal..
+Q842,Congenital malformations deformations and chromosomal..
+Q979,Congenital malformations deformations and chromosomal..
+Q158,Congenital malformations deformations and chromosomal..
+Q324,Congenital malformations deformations and chromosomal..
+Q402,Congenital malformations deformations and chromosomal..
+Q506,Congenital malformations deformations and chromosomal..
+Q078,Congenital malformations deformations and chromosomal..
+Q270,Congenital malformations deformations and chromosomal..
+Q951,Congenital malformations deformations and chromosomal..
+Q280,Congenital malformations deformations and chromosomal..
+Q651,Congenital malformations deformations and chromosomal..
+Q785,Congenital malformations deformations and chromosomal..
+Q740,Congenital malformations deformations and chromosomal..
+Q225,Congenital malformations deformations and chromosomal..
+Q759,Congenital malformations deformations and chromosomal..
+Q709,Congenital malformations deformations and chromosomal..
+Q052,Congenital malformations deformations and chromosomal..
+Q220,Congenital malformations deformations and chromosomal..
+Q802,Congenital malformations deformations and chromosomal..
+Q002,Congenital malformations deformations and chromosomal..
+Q249,Congenital malformations deformations and chromosomal..
+Q054,Congenital malformations deformations and chromosomal..
+Q627,Congenital malformations deformations and chromosomal..
+Q408,Congenital malformations deformations and chromosomal..
+Q718,Congenital malformations deformations and chromosomal..
+Q045,Congenital malformations deformations and chromosomal..
+Q860,Congenital malformations deformations and chromosomal..
+Q202,Congenital malformations deformations and chromosomal..
+Q728,Congenital malformations deformations and chromosomal..
+Q398,Congenital malformations deformations and chromosomal..
+Q873,Congenital malformations deformations and chromosomal..
+Q645,Congenital malformations deformations and chromosomal..
+Q604,Congenital malformations deformations and chromosomal..
+Q937,Congenital malformations deformations and chromosomal..
+Q226,Congenital malformations deformations and chromosomal..
+Q209,Congenital malformations deformations and chromosomal..
+Q443,Congenital malformations deformations and chromosomal..
+Q030,Congenital malformations deformations and chromosomal..
+Q812,Congenital malformations deformations and chromosomal..
+Q678,Congenital malformations deformations and chromosomal..
+Q770,Congenital malformations deformations and chromosomal..
+Q980,Congenital malformations deformations and chromosomal..
+Q767,Congenital malformations deformations and chromosomal..
+Q150,Congenital malformations deformations and chromosomal..
+Q824,Congenital malformations deformations and chromosomal..
+Q673,Congenital malformations deformations and chromosomal..
+Q112,Congenital malformations deformations and chromosomal..
+Q784,Congenital malformations deformations and chromosomal..
+Q061,Congenital malformations deformations and chromosomal..
+Q821,Congenital malformations deformations and chromosomal..
+Q001,Congenital malformations deformations and chromosomal..
+Q041,Congenital malformations deformations and chromosomal..
+Q396,Congenital malformations deformations and chromosomal..
+Q661,Congenital malformations deformations and chromosomal..
+Q804,Congenital malformations deformations and chromosomal..
+Q510,Congenital malformations deformations and chromosomal..
+Q632,Congenital malformations deformations and chromosomal..
+Q768,Congenital malformations deformations and chromosomal..
+Q400,Congenital malformations deformations and chromosomal..
+R95,Sudden infant death syndrome
+R048,Symptoms signs and abnormal clinical and lab findings..
+R579,Symptoms signs and abnormal clinical and lab findings..
+R943,Symptoms signs and abnormal clinical and lab findings..
+R609,Symptoms signs and abnormal clinical and lab findings..
+R300,Symptoms signs and abnormal clinical and lab findings..
+R629,Symptoms signs and abnormal clinical and lab findings..
+R238,Symptoms signs and abnormal clinical and lab findings..
+R060,Symptoms signs and abnormal clinical and lab findings..
+R71,Symptoms signs and abnormal clinical and lab findings..
+R571,Symptoms signs and abnormal clinical and lab findings..
+R900,Symptoms signs and abnormal clinical and lab findings..
+R400,Symptoms signs and abnormal clinical and lab findings..
+R451,Symptoms signs and abnormal clinical and lab findings..
+R432,Symptoms signs and abnormal clinical and lab findings..
+R509,Symptoms signs and abnormal clinical and lab findings..
+R636,Symptoms signs and abnormal clinical and lab findings..
+R001,Symptoms signs and abnormal clinical and lab findings..
+R560,Symptoms signs and abnormal clinical and lab findings..
+R749,Symptoms signs and abnormal clinical and lab findings..
+R11,Symptoms signs and abnormal clinical and lab findings..
+R99,Symptoms signs and abnormal clinical and lab findings..
+R940,Symptoms signs and abnormal clinical and lab findings..
+R788,Symptoms signs and abnormal clinical and lab findings..
+R230,Symptoms signs and abnormal clinical and lab findings..
+R779,Symptoms signs and abnormal clinical and lab findings..
+R13,Symptoms signs and abnormal clinical and lab findings..
+R02,Symptoms signs and abnormal clinical and lab findings..
+R073,Symptoms signs and abnormal clinical and lab findings..
+R780,Symptoms signs and abnormal clinical and lab findings..
+R520,Symptoms signs and abnormal clinical and lab findings..
+R470,Symptoms signs and abnormal clinical and lab findings..
+R58,Symptoms signs and abnormal clinical and lab findings..
+R263,Symptoms signs and abnormal clinical and lab findings..
+R049,Symptoms signs and abnormal clinical and lab findings..
+R961,Symptoms signs and abnormal clinical and lab findings..
+R162,Symptoms signs and abnormal clinical and lab findings..
+R251,Symptoms signs and abnormal clinical and lab findings..
+R458,Symptoms signs and abnormal clinical and lab findings..
+R090,Symptoms signs and abnormal clinical and lab findings..
+R091,Symptoms signs and abnormal clinical and lab findings..
+R897,Symptoms signs and abnormal clinical and lab findings..
+R522,Symptoms signs and abnormal clinical and lab findings..
+R002,Symptoms signs and abnormal clinical and lab findings..
+R54,Symptoms signs and abnormal clinical and lab findings..
+R268,Symptoms signs and abnormal clinical and lab findings..
+R21,Symptoms signs and abnormal clinical and lab findings..
+R80,Symptoms signs and abnormal clinical and lab findings..
+R53,Symptoms signs and abnormal clinical and lab findings..
+R482,Symptoms signs and abnormal clinical and lab findings..
+R198,Symptoms signs and abnormal clinical and lab findings..
+R270,Symptoms signs and abnormal clinical and lab findings..
+R05,Symptoms signs and abnormal clinical and lab findings..
+R98,Symptoms signs and abnormal clinical and lab findings..
+R18,Symptoms signs and abnormal clinical and lab findings..
+R55,Symptoms signs and abnormal clinical and lab findings..
+R471,Symptoms signs and abnormal clinical and lab findings..
+R730,Symptoms signs and abnormal clinical and lab findings..
+R011,Symptoms signs and abnormal clinical and lab findings..
+R568,Symptoms signs and abnormal clinical and lab findings..
+R410,Symptoms signs and abnormal clinical and lab findings..
+R599,Symptoms signs and abnormal clinical and lab findings..
+R908,Symptoms signs and abnormal clinical and lab findings..
+R278,Symptoms signs and abnormal clinical and lab findings..
+R413,Symptoms signs and abnormal clinical and lab findings..
+R632,Symptoms signs and abnormal clinical and lab findings..
+R849,Symptoms signs and abnormal clinical and lab findings..
+R229,Symptoms signs and abnormal clinical and lab findings..
+R200,Symptoms signs and abnormal clinical and lab findings..
+R17,Symptoms signs and abnormal clinical and lab findings..
+R101,Symptoms signs and abnormal clinical and lab findings..
+R51,Symptoms signs and abnormal clinical and lab findings..
+R34,Symptoms signs and abnormal clinical and lab findings..
+R402,Symptoms signs and abnormal clinical and lab findings..
+R252,Symptoms signs and abnormal clinical and lab findings..
+R061,Symptoms signs and abnormal clinical and lab findings..
+R160,Symptoms signs and abnormal clinical and lab findings..
+R768,Symptoms signs and abnormal clinical and lab findings..
+R070,Symptoms signs and abnormal clinical and lab findings..
+R601,Symptoms signs and abnormal clinical and lab findings..
+R072,Symptoms signs and abnormal clinical and lab findings..
+R14,Symptoms signs and abnormal clinical and lab findings..
+R068,Symptoms signs and abnormal clinical and lab findings..
+R529,Symptoms signs and abnormal clinical and lab findings..
+R783,Symptoms signs and abnormal clinical and lab findings..
+R72,Symptoms signs and abnormal clinical and lab findings..
+R224,Symptoms signs and abnormal clinical and lab findings..
+R781,Symptoms signs and abnormal clinical and lab findings..
+R508,Symptoms signs and abnormal clinical and lab findings..
+R234,Symptoms signs and abnormal clinical and lab findings..
+R401,Symptoms signs and abnormal clinical and lab findings..
+R233,Symptoms signs and abnormal clinical and lab findings..
+R782,Symptoms signs and abnormal clinical and lab findings..
+R000,Symptoms signs and abnormal clinical and lab findings..
+R945,Symptoms signs and abnormal clinical and lab findings..
+R258,Symptoms signs and abnormal clinical and lab findings..
+R222,Symptoms signs and abnormal clinical and lab findings..
+R825,Symptoms signs and abnormal clinical and lab findings..
+R092,Symptoms signs and abnormal clinical and lab findings..
+R784,Symptoms signs and abnormal clinical and lab findings..
+R456,Symptoms signs and abnormal clinical and lab findings..
+R098,Symptoms signs and abnormal clinical and lab findings..
+R91,Symptoms signs and abnormal clinical and lab findings..
+R33,Symptoms signs and abnormal clinical and lab findings..
+R220,Symptoms signs and abnormal clinical and lab findings..
+R823,Symptoms signs and abnormal clinical and lab findings..
+R578,Symptoms signs and abnormal clinical and lab findings..
+R490,Symptoms signs and abnormal clinical and lab findings..
+R391,Symptoms signs and abnormal clinical and lab findings..
+R630,Symptoms signs and abnormal clinical and lab findings..
+R290,Symptoms signs and abnormal clinical and lab findings..
+R104,Symptoms signs and abnormal clinical and lab findings..
+R64,Symptoms signs and abnormal clinical and lab findings..
+R103,Symptoms signs and abnormal clinical and lab findings..
+R740,Symptoms signs and abnormal clinical and lab findings..
+R680,Symptoms signs and abnormal clinical and lab findings..
+R100,Symptoms signs and abnormal clinical and lab findings..
+R628,Symptoms signs and abnormal clinical and lab findings..
+R638,Symptoms signs and abnormal clinical and lab findings..
+R190,Symptoms signs and abnormal clinical and lab findings..
+R298,Symptoms signs and abnormal clinical and lab findings..
+R461,Symptoms signs and abnormal clinical and lab findings..
+R748,Symptoms signs and abnormal clinical and lab findings..
+R488,Symptoms signs and abnormal clinical and lab findings..
+R453,Symptoms signs and abnormal clinical and lab findings..
+R291,Symptoms signs and abnormal clinical and lab findings..
+R221,Symptoms signs and abnormal clinical and lab findings..
+R600,Symptoms signs and abnormal clinical and lab findings..
+R31,Symptoms signs and abnormal clinical and lab findings..
+R008,Symptoms signs and abnormal clinical and lab findings..
+R75,Symptoms signs and abnormal clinical and lab findings..
+R041,Symptoms signs and abnormal clinical and lab findings..
+R066,Symptoms signs and abnormal clinical and lab findings..
+R590,Symptoms signs and abnormal clinical and lab findings..
+R102,Symptoms signs and abnormal clinical and lab findings..
+R688,Symptoms signs and abnormal clinical and lab findings..
+R062,Symptoms signs and abnormal clinical and lab findings..
+R960,Symptoms signs and abnormal clinical and lab findings..
+R739,Symptoms signs and abnormal clinical and lab findings..
+R441,Symptoms signs and abnormal clinical and lab findings..
+R074,Symptoms signs and abnormal clinical and lab findings..
+R42,Symptoms signs and abnormal clinical and lab findings..
+R042,Symptoms signs and abnormal clinical and lab findings..
+R064,Symptoms signs and abnormal clinical and lab findings..
+R161,Symptoms signs and abnormal clinical and lab findings..
+R634,Symptoms signs and abnormal clinical and lab findings..
+R942,Symptoms signs and abnormal clinical and lab findings..
+R570,Symptoms signs and abnormal clinical and lab findings..
+R798,Symptoms signs and abnormal clinical and lab findings..
+R631,Symptoms signs and abnormal clinical and lab findings..
+R040,Symptoms signs and abnormal clinical and lab findings..
+R591,Symptoms signs and abnormal clinical and lab findings..
+R633,Symptoms signs and abnormal clinical and lab findings..
+R065,Symptoms signs and abnormal clinical and lab findings..
+R701,Symptoms signs and abnormal clinical and lab findings..
+R468,Symptoms signs and abnormal clinical and lab findings..
+R418,Symptoms signs and abnormal clinical and lab findings..
+D62,All other diseases
+D439,All other diseases
+K729,All other diseases
+A369,All other diseases
+E669,All other diseases
+D334,All other diseases
+E042,All other diseases
+G711,All other diseases
+M808,All other diseases
+I890,All other diseases
+K720,All other diseases
+F100,All other diseases
+B402,All other diseases
+I822,All other diseases
+F418,All other diseases
+G834,All other diseases
+B49,All other diseases
+J930,All other diseases
+F069,All other diseases
+J849,All other diseases
+G809,All other diseases
+G409,All other diseases
+K566,All other diseases
+K631,All other diseases
+E011,All other diseases
+B022,All other diseases
+E340,All other diseases
+M866,All other diseases
+D510,All other diseases
+J961,All other diseases
+D571,All other diseases
+K869,All other diseases
+M890,All other diseases
+F202,All other diseases
+A408,All other diseases
+D682,All other diseases
+F102,All other diseases
+A309,All other diseases
+D562,All other diseases
+K450,All other diseases
+E282,All other diseases
+B449,All other diseases
+F011,All other diseases
+D461,All other diseases
+D860,All other diseases
+G822,All other diseases
+J22,All other diseases
+M359,All other diseases
+K30,All other diseases
+K802,All other diseases
+A791,All other diseases
+F191,All other diseases
+G219,All other diseases
+M512,All other diseases
+M674,All other diseases
+K830,All other diseases
+D892,All other diseases
+D350,All other diseases
+G060,All other diseases
+D420,All other diseases
+G937,All other diseases
+E778,All other diseases
+G039,All other diseases
+G404,All other diseases
+G08,All other diseases
+K768,All other diseases
+K562,All other diseases
+G932,All other diseases
+K85,All other diseases
+G709,All other diseases
+G98,All other diseases
+K839,All other diseases
+J949,All other diseases
+B181,All other diseases
+A78,All other diseases
+D489,All other diseases
+G000,All other diseases
+M600,All other diseases
+K754,All other diseases
+F312,All other diseases
+K838,All other diseases
+L031,All other diseases
+D464,All other diseases
+D351,All other diseases
+K315,All other diseases
+A047,All other diseases
+M340,All other diseases
+D739,All other diseases
+B440,All other diseases
+M349,All other diseases
+M927,All other diseases
+G373,All other diseases
+M953,All other diseases
+J982,All other diseases
+F442,All other diseases
+K550,All other diseases
+A021,All other diseases
+F141,All other diseases
+E271,All other diseases
+J398,All other diseases
+K659,All other diseases
+D314,All other diseases
+D569,All other diseases
+F199,All other diseases
+D333,All other diseases
+D379,All other diseases
+D689,All other diseases
+G450,All other diseases
+F322,All other diseases
+J81,All other diseases
+N329,All other diseases
+K805,All other diseases
+I871,All other diseases
+F209,All other diseases
+G801,All other diseases
+A084,All other diseases
+G800,All other diseases
+I81,All other diseases
+J348,All other diseases
+E46,All other diseases
+E780,All other diseases
+J841,All other diseases
+A412,All other diseases
+J960,All other diseases
+B381,All other diseases
+D593,All other diseases
+F170,All other diseases
+A415,All other diseases
+M485,All other diseases
+I864,All other diseases
+A498,All other diseases
+A481,All other diseases
+D66,All other diseases
+D125,All other diseases
+M519,All other diseases
+A418,All other diseases
+I850,All other diseases
+K909,All other diseases
+M841,All other diseases
+M954,All other diseases
+K311,All other diseases
+L930,All other diseases
+F101,All other diseases
+F605,All other diseases
+A390,All other diseases
+A879,All other diseases
+F013,All other diseases
+G458,All other diseases
+G952,All other diseases
+D728,All other diseases
+J60,All other diseases
+G062,All other diseases
+K404,All other diseases
+M352,All other diseases
+G969,All other diseases
+F508,All other diseases
+B332,All other diseases
+F431,All other diseases
+D137,All other diseases
+K430,All other diseases
+B379,All other diseases
+A86,All other diseases
+D150,All other diseases
+F220,All other diseases
+E713,All other diseases
+D400,All other diseases
+M480,All other diseases
+G049,All other diseases
+A020,All other diseases
+F177,All other diseases
+G040,All other diseases
+L024,All other diseases
+K767,All other diseases
+E43,All other diseases
+N142,All other diseases
+B004,All other diseases
+G479,All other diseases
+B258,All other diseases
+B348,All other diseases
+J985,All other diseases
+N12,All other diseases
+N836,All other diseases
+M658,All other diseases
+G519,All other diseases
+F200,All other diseases
+A391,All other diseases
+A849,All other diseases
+B259,All other diseases
+E220,All other diseases
+M609,All other diseases
+K625,All other diseases
+F412,All other diseases
+A039,All other diseases
+K902,All other diseases
+E889,All other diseases
+D432,All other diseases
+G935,All other diseases
+G930,All other diseases
+D589,All other diseases
+J988,All other diseases
+N359,All other diseases
+A490,All other diseases
+M629,All other diseases
+I862,All other diseases
+K429,All other diseases
+J390,All other diseases
+G403,All other diseases
+E840,All other diseases
+G473,All other diseases
+I898,All other diseases
+E079,All other diseases
+D720,All other diseases
+D177,All other diseases
+J380,All other diseases
+D599,All other diseases
+E720,All other diseases
+K650,All other diseases
+D413,All other diseases
+F103,All other diseases
+A419,All other diseases
+F129,All other diseases
+K500,All other diseases
+K630,All other diseases
+K750,All other diseases
+E250,All other diseases
+K350,All other diseases
+K316,All other diseases
+E611,All other diseases
+G312,All other diseases
+K37,All other diseases
+G919,All other diseases
+D157,All other diseases
+K831,All other diseases
+J709,All other diseases
+A499,All other diseases
+E639,All other diseases
+K565,All other diseases
+M625,All other diseases
+M321,All other diseases
+N151,All other diseases
+E249,All other diseases
+K624,All other diseases
+E721,All other diseases
+N828,All other diseases
+I828,All other diseases
+F432,All other diseases
+M940,All other diseases
+L539,All other diseases
+K758,All other diseases
+A410,All other diseases
+N394,All other diseases
+A080,All other diseases
+M869,All other diseases
+E762,All other diseases
+G901,All other diseases
+B91,All other diseases
+K449,All other diseases
+M311,All other diseases
+B349,All other diseases
+A491,All other diseases
+K629,All other diseases
+E237,All other diseases
+F03,All other diseases
+A379,All other diseases
+G938,All other diseases
+M348,All other diseases
+F448,All other diseases
+D509,All other diseases
+M844,All other diseases
+G700,All other diseases
+L059,All other diseases
+D696,All other diseases
+F258,All other diseases
+G610,All other diseases
+A91,All other diseases
+E802,All other diseases
+K861,All other diseases
+J051,All other diseases
+B464,All other diseases
+G232,All other diseases
+D482,All other diseases
+D320,All other diseases
+D126,All other diseases
+D65,All other diseases
+M053,All other diseases
+K920,All other diseases
+B008,All other diseases
+K769,All other diseases
+K529,All other diseases
+E039,All other diseases
+N832,All other diseases
+K929,All other diseases
+E859,All other diseases
+D013,All other diseases
+K297,All other diseases
+L030,All other diseases
+K564,All other diseases
+K635,All other diseases
+J690,All other diseases
+N289,All other diseases
+E049,All other diseases
+D165,All other diseases
+B949,All other diseases
+M317,All other diseases
+D391,All other diseases
+G400,All other diseases
+E838,All other diseases
+B270,All other diseases
+D763,All other diseases
+F171,All other diseases
+D690,All other diseases
+G258,All other diseases
+D760,All other diseases
+H050,All other diseases
+K359,All other diseases
+G10,All other diseases
+J700,All other diseases
+G721,All other diseases
+D890,All other diseases
+L129,All other diseases
+F108,All other diseases
+G379,All other diseases
+J90,All other diseases
+F019,All other diseases
+M918,All other diseases
+A045,All other diseases
+G360,All other diseases
+F439,All other diseases
+F79,All other diseases
+D594,All other diseases
+N509,All other diseases
+M893,All other diseases
+K319,All other diseases
+H103,All other diseases
+N859,All other diseases
+K409,All other diseases
+G310,All other diseases
+G959,All other diseases
+K224,All other diseases
+D699,All other diseases
+I99,All other diseases
+I839,All other diseases
+M463,All other diseases
+D122,All other diseases
+J852,All other diseases
+N281,All other diseases
+K570,All other diseases
+N130,All other diseases
+K221,All other diseases
+K220,All other diseases
+N750,All other diseases
+A89,All other diseases
+K900,All other diseases
+J80,All other diseases
+D287,All other diseases
+F502,All other diseases
+E875,All other diseases
+D731,All other diseases
+M316,All other diseases
+D444,All other diseases
+D802,All other diseases
+D643,All other diseases
+L020,All other diseases
+K219,All other diseases
+N428,All other diseases
+N882,All other diseases
+M303,All other diseases
+D738,All other diseases
+G936,All other diseases
+F29,All other diseases
+D759,All other diseases
+E539,All other diseases
+K721,All other diseases
+D471,All other diseases
+G712,All other diseases
+G910,All other diseases
+F151,All other diseases
+G628,All other diseases
+E874,All other diseases
+N302,All other diseases
+I809,All other diseases
+K413,All other diseases
+D135,All other diseases
+J981,All other diseases
+G951,All other diseases
+M059,All other diseases
+M724,All other diseases
+K760,All other diseases
+A318,All other diseases
+B669,All other diseases
+B182,All other diseases
+I870,All other diseases
+A321,All other diseases
+K818,All other diseases
+M549,All other diseases
+D372,All other diseases
+G122,All other diseases
+N135,All other diseases
+J940,All other diseases
+D848,All other diseases
+N342,All other diseases
+A030,All other diseases
+F99,All other diseases
+M313,All other diseases
+A319,All other diseases
+E858,All other diseases
+F71,All other diseases
+E230,All other diseases
+E274,All other diseases
+M611,All other diseases
+K660,All other diseases
+A329,All other diseases
+M921,All other diseases
+N300,All other diseases
+G728,All other diseases
+N829,All other diseases
+L538,All other diseases
+K403,All other diseases
+J387,All other diseases
+F109,All other diseases
+E763,All other diseases
+D469,All other diseases
+B159,All other diseases
+M243,All other diseases
+E701,All other diseases
+K753,All other diseases
+M484,All other diseases
+K801,All other diseases
+D486,All other diseases
+M542,All other diseases
+M431,All other diseases
+F051,All other diseases
+K509,All other diseases
+E790,All other diseases
+G710,All other diseases
+H169,All other diseases
+E785,All other diseases
+K628,All other diseases
+L028,All other diseases
+M435,All other diseases
+G405,All other diseases
+G240,All other diseases
+K226,All other diseases
+L089,All other diseases
+G702,All other diseases
+B377,All other diseases
+J860,All other diseases
+M258,All other diseases
+G319,All other diseases
+K388,All other diseases
+L401,All other diseases
+J681,All other diseases
+M139,All other diseases
+G20,All other diseases
+G048,All other diseases
+L410,All other diseases
+D000,All other diseases
+D120,All other diseases
+F149,All other diseases
+K759,All other diseases
+M179,All other diseases
+D805,All other diseases
+M489,All other diseases
+E841,All other diseases
+E761,All other diseases
+N492,All other diseases
+J352,All other diseases
+M418,All other diseases
+J660,All other diseases
+G35,All other diseases
+N811,All other diseases
+G729,All other diseases
+D487,All other diseases
+B942,All other diseases
+B500,All other diseases
+E211,All other diseases
+N47,All other diseases
+D869,All other diseases
+D821,All other diseases
+G311,All other diseases
+N816,All other diseases
+A985,All other diseases
+K088,All other diseases
+B376,All other diseases
+J671,All other diseases
+B334,All other diseases
+G903,All other diseases
+J041,All other diseases
+E786,All other diseases
+G934,All other diseases
+K210,All other diseases
+D051,All other diseases
+K863,All other diseases
+L120,All other diseases
+E832,All other diseases
+K590,All other diseases
+J989,All other diseases
+K295,All other diseases
+G821,All other diseases
+N390,All other diseases
+D410,All other diseases
+B409,All other diseases
+J840,All other diseases
+J61,All other diseases
+D164,All other diseases
+E770,All other diseases
+J393,All other diseases
+J931,All other diseases
+E348,All other diseases
+F139,All other diseases
+M419,All other diseases
+K318,All other diseases
+B465,All other diseases
+B370,All other diseases
+M331,All other diseases
+A409,All other diseases
+D610,All other diseases
+F152,All other diseases
+G001,All other diseases
+K047,All other diseases
+E703,All other diseases
+G239,All other diseases
+M622,All other diseases
+E871,All other diseases
+A810,All other diseases
+A072,All other diseases
+A059,All other diseases
+E270,All other diseases
+K859,All other diseases
+E752,All other diseases
+G589,All other diseases
+G129,All other diseases
+H402,All other diseases
+J381,All other diseases
+D578,All other diseases
+D015,All other diseases
+B99,All other diseases
+H669,All other diseases
+K765,All other diseases
+D441,All other diseases
+D642,All other diseases
+B829,All other diseases
+D483,All other diseases
+L605,All other diseases
+E872,All other diseases
+K572,All other diseases
+K567,All other diseases
+E648,All other diseases
+K148,All other diseases
+K638,All other diseases
+D443,All other diseases
+J320,All other diseases
+N139,All other diseases
+I958,All other diseases
+N40,All other diseases
+K599,All other diseases
+N137,All other diseases
+K551,All other diseases
+E878,All other diseases
+N393,All other diseases
+G629,All other diseases
+F179,All other diseases
+D572,All other diseases
+J392,All other diseases
+B451,All other diseases
+I878,All other diseases
+D733,All other diseases
+E852,All other diseases
+M356,All other diseases
+A279,All other diseases
+D397,All other diseases
+N10,All other diseases
+A051,All other diseases
+M259,All other diseases
+M469,All other diseases
+M531,All other diseases
+G912,All other diseases
+D001,All other diseases
+D144,All other diseases
+G968,All other diseases
+A483,All other diseases
+G621,All other diseases
+D440,All other diseases
+B199,All other diseases
+J040,All other diseases
+D430,All other diseases
+G241,All other diseases
+B251,All other diseases
+H409,All other diseases
+L988,All other diseases
+M332,All other diseases
+M462,All other diseases
+D369,All other diseases
+A099,All other diseases
+F205,All other diseases
+G911,All other diseases
+K835,All other diseases
+A049,All other diseases
+G031,All other diseases
+D472,All other diseases
+D473,All other diseases
+K519,All other diseases
+G249,All other diseases
+K112,All other diseases
+E035,All other diseases
+D329,All other diseases
+J851,All other diseases
+J200,All other diseases
+K658,All other diseases
+H110,All other diseases
+K561,All other diseases
+B573,All other diseases
+K661,All other diseases
+J386,All other diseases
+G825,All other diseases
+K229,All other diseases
+A071,All other diseases
+D180,All other diseases
+B839,All other diseases
+N909,All other diseases
+D131,All other diseases
+N838,All other diseases
+K632,All other diseases
+D684,All other diseases
+A414,All other diseases
+E343,All other diseases
+G939,All other diseases
+F509,All other diseases
+G259,All other diseases
+I808,All other diseases
+D213,All other diseases
+G008,All other diseases
+F115,All other diseases
+K298,All other diseases
+M355,All other diseases
+G521,All other diseases
+N111,All other diseases
+N63,All other diseases
+N119,All other diseases
+M439,All other diseases
+E41,All other diseases
+K922,All other diseases
+M949,All other diseases
+M169,All other diseases
+B789,All other diseases
+N459,All other diseases
+D800,All other diseases
+M060,All other diseases
+J039,All other diseases
+E86,All other diseases
+M255,All other diseases
+D259,All other diseases
+D539,All other diseases
+F172,All other diseases
+E031,All other diseases
+D70,All other diseases
+A439,All other diseases
+G211,All other diseases
+D588,All other diseases
+D414,All other diseases
+F329,All other diseases
+K824,All other diseases
+K20,All other diseases
+M312,All other diseases
+K009,All other diseases
+M402,All other diseases
+A085,All other diseases
+M023,All other diseases
+F113,All other diseases
+A548,All other diseases
+D445,All other diseases
+D481,All other diseases
+E668,All other diseases
+K120,All other diseases
+J65,All other diseases
+F154,All other diseases
+G230,All other diseases
+J385,All other diseases
+E213,All other diseases
+F843,All other diseases
+A394,All other diseases
+L088,All other diseases
+K520,All other diseases
+K419,All other diseases
+F73,All other diseases
+D376,All other diseases
+N141,All other diseases
+D761,All other diseases
+B027,All other diseases
+G110,All other diseases
+M719,All other diseases
+F913,All other diseases
+N159,All other diseases
+N210,All other diseases
+N959,All other diseases
+B427,All other diseases
+K810,All other diseases
+D750,All other diseases
+D595,All other diseases
+K149,All other diseases
+N308,All other diseases
+K821,All other diseases
+G92,All other diseases
+A399,All other diseases
+E854,All other diseases
+E279,All other diseases
+B250,All other diseases
+D181,All other diseases
+E214,All other diseases
+A600,All other diseases
+G002,All other diseases
+J980,All other diseases
+K819,All other diseases
+N645,All other diseases
+J042,All other diseases
+A438,All other diseases
+K832,All other diseases
+A819,All other diseases
+D477,All other diseases
+D352,All other diseases
+D419,All other diseases
+D463,All other diseases
+D381,All other diseases
+B009,All other diseases
+K603,All other diseases
+D380,All other diseases
+D321,All other diseases
+D361,All other diseases
+F319,All other diseases
+G713,All other diseases
+J939,All other diseases
+D580,All other diseases
+N831,All other diseases
+N321,All other diseases
+E441,All other diseases
+K803,All other diseases
+N481,All other diseases
+K518,All other diseases
+B588,All other diseases
+K290,All other diseases
+N820,All other diseases
+H660,All other diseases
+G724,All other diseases
+D67,All other diseases
+B89,All other diseases
+K431,All other diseases
+K052,All other diseases
+N889,All other diseases
+K560,All other diseases
+B787,All other diseases
+D234,All other diseases
+A420,All other diseases
+D618,All other diseases
+D485,All other diseases
+G003,All other diseases
+I823,All other diseases
+L22,All other diseases
+L039,All other diseases
+M000,All other diseases
+E760,All other diseases
+K439,All other diseases
+E835,All other diseases
+E833,All other diseases
+D375,All other diseases
+M628,All other diseases
+H919,All other diseases
+M412,All other diseases
+F106,All other diseases
+M082,All other diseases
+K563,All other diseases
+G588,All other diseases
+H163,All other diseases
+E831,All other diseases
+D648,All other diseases
+A241,All other diseases
+D734,All other diseases
+D862,All other diseases
+M809,All other diseases
+H579,All other diseases
+G608,All other diseases
+A413,All other diseases
+K822,All other diseases
+G824,All other diseases
+K578,All other diseases
+E232,All other diseases
+E310,All other diseases
+K593,All other diseases
+D239,All other diseases
+K441,All other diseases
+I859,All other diseases
+G231,All other diseases
+D71,All other diseases
+G918,All other diseases
+M310,All other diseases
+K719,All other diseases
+M793,All other diseases
+G120,All other diseases
+A033,All other diseases
+K291,All other diseases
+K089,All other diseases
+K227,All other diseases
+J201,All other diseases
+D210,All other diseases
+J703,All other diseases
+M329,All other diseases
+A872,All other diseases
+D330,All other diseases
+G527,All other diseases
+B340,All other diseases
+G248,All other diseases
+E877,All other diseases
+K717,All other diseases
+K292,All other diseases
+M899,All other diseases
+E870,All other diseases
+J384,All other diseases
+F919,All other diseases
+G931,All other diseases
+A048,All other diseases
+K639,All other diseases
+A428,All other diseases
+F59,All other diseases
+F072,All other diseases
+E888,All other diseases
+F55,All other diseases
+N899,All other diseases
+D570,All other diseases
+J383,All other diseases
+I830,All other diseases
+E880,All other diseases
+L932,All other diseases
+N735,All other diseases
+B021,All other diseases
+I820,All other diseases
+B447,All other diseases
+M819,All other diseases
+G459,All other diseases
+A492,All other diseases
+D093,All other diseases
+K761,All other diseases
+B378,All other diseases
+N857,All other diseases
+B403,All other diseases
+D612,All other diseases
+I849,All other diseases
+B389,All other diseases
+M796,All other diseases
+A430,All other diseases
+F09,All other diseases
+G600,All other diseases
+G720,All other diseases
+L26,All other diseases
+G620,All other diseases
+F058,All other diseases
+B188,All other diseases
+M300,All other diseases
+D462,All other diseases
+D518,All other diseases
+A923,All other diseases
+M464,All other diseases
+N858,All other diseases
+A398,All other diseases
+K461,All other diseases
+H160,All other diseases
+M341,All other diseases
+M069,All other diseases
+J209,All other diseases
+H731,All other diseases
+E788,All other diseases
+D619,All other diseases
+N649,All other diseases
+J329,All other diseases
+K317,All other diseases
+N131,All other diseases
+B678,All other diseases
+K559,All other diseases
+B488,All other diseases
+K579,All other diseases
+J986,All other diseases
+N482,All other diseases
+G708,All other diseases
+N499,All other diseases
+D043,All other diseases
+D809,All other diseases
+A281,All other diseases
+L511,All other diseases
+K764,All other diseases
+K068,All other diseases
+G808,All other diseases
+G255,All other diseases
+B023,All other diseases
+E538,All other diseases
+B508,All other diseases
+J942,All other diseases
+G819,All other diseases
+J984,All other diseases
+D132,All other diseases
+K766,All other diseases
+K389,All other diseases
+K860,All other diseases
+E876,All other diseases
+D841,All other diseases
+D688,All other diseases
+F339,All other diseases
+G913,All other diseases
+E710,All other diseases
+D801,All other diseases
+D236,All other diseases
+D695,All other diseases
+N839,All other diseases
+E240,All other diseases
+N888,All other diseases
+M415,All other diseases
+G408,All other diseases
+N363,All other diseases
+M548,All other diseases
+G14,All other diseases
+D530,All other diseases
+E830,All other diseases
+D480,All other diseases
+N850,All other diseases
+G839,All other diseases
+K521,All other diseases
+D106,All other diseases
+L408,All other diseases
+B011,All other diseases
+B677,All other diseases
+D339,All other diseases
+K598,All other diseases
+L989,All other diseases
+K469,All other diseases
+B189,All other diseases
+A239,All other diseases
+B909,All other diseases
+B459,All other diseases
+L123,All other diseases
+D694,All other diseases
+A549,All other diseases
+N211,All other diseases
+B441,All other diseases
+E660,All other diseases
+A280,All other diseases
+D467,All other diseases
+H664,All other diseases
+F840,All other diseases
+K602,All other diseases
+K762,All other diseases
+K056,All other diseases
+D735,All other diseases
+I959,All other diseases
+D151,All other diseases
+M45,All other diseases
+N719,All other diseases
+A064,All other diseases
+K294,All other diseases
+F54,All other diseases
+N202,All other diseases
+D24,All other diseases
+A411,All other diseases
+K116,All other diseases
+M319,All other diseases
+G718,All other diseases
+D758,All other diseases
+E161,All other diseases
+K573,All other diseases
+J628,All other diseases
+N44,All other diseases
+G372,All other diseases
+K669,All other diseases
+B374,All other diseases
+G419,All other diseases
+M103,All other diseases
+M919,All other diseases
+F204,All other diseases
+L981,All other diseases
+G960,All other diseases
+D332,All other diseases
+L048,All other diseases
+E724,All other diseases
+B391,All other diseases
+M726,All other diseases
+E15,All other diseases
+E215,All other diseases
+K440,All other diseases
+K928,All other diseases
+D386,All other diseases
+J342,All other diseases
+K829,All other diseases
+N764,All other diseases
+J060,All other diseases
+K358,All other diseases
+M430,All other diseases
+D071,All other diseases
+B169,All other diseases
+M868,All other diseases
+D201,All other diseases
+J82,All other diseases
+D103,All other diseases
+J948,All other diseases
+J208,All other diseases
+G244,All other diseases
+G823,All other diseases
+M051,All other diseases
+J050,All other diseases
+D803,All other diseases
+K904,All other diseases
+B814,All other diseases
+B448,All other diseases
+K414,All other diseases
+A488,All other diseases
+K051,All other diseases
+H353,All other diseases
+M301,All other diseases
+J205,All other diseases
+K121,All other diseases
+K800,All other diseases
+E804,All other diseases
+I829,All other diseases
+E711,All other diseases
+D433,All other diseases
+K868,All other diseases
+M503,All other diseases
+B948,All other diseases
+L109,All other diseases
+L251,All other diseases
+F458,All other diseases
+F341,All other diseases
+D392,All other diseases
+E268,All other diseases
+A64,All other diseases
+J029,All other diseases
+N143,All other diseases
+M153,All other diseases
+H521,All other diseases
+J688,All other diseases
+L982,All other diseases
+A778,All other diseases
+A09,All other diseases
+K804,All other diseases
+G838,All other diseases
+A402,All other diseases
+D117,All other diseases
+D479,All other diseases
+K523,All other diseases
+K552,All other diseases
+D359,All other diseases
+D385,All other diseases
+D371,All other diseases
+L530,All other diseases
+M404,All other diseases
+J018,All other diseases
+K668,All other diseases
+F638,All other diseases
+B92,All other diseases
+E519,All other diseases
+A421,All other diseases
+A770,All other diseases
+N133,All other diseases
+F112,All other diseases
+D197,All other diseases
+E882,All other diseases
+M351,All other diseases
+M889,All other diseases
+A858,All other diseases
+M414,All other diseases
+B461,All other diseases
+F107,All other diseases
+J682,All other diseases
+G243,All other diseases
+D732,All other diseases
+N280,All other diseases
+N319,All other diseases
+M755,All other diseases
+N328,All other diseases
+K296,All other diseases
+A38,All other diseases
+K611,All other diseases
+E722,All other diseases
+F159,All other diseases
+A327,All other diseases
+F04,All other diseases
+K062,All other diseases
+D412,All other diseases
+K225,All other diseases
+E881,All other diseases
+K528,All other diseases
+A217,All other diseases
+G811,All other diseases
+M729,All other diseases
+A480,All other diseases
+A392,All other diseases
+B029,All other diseases
+M864,All other diseases
+J680,All other diseases
+B007,All other diseases
+D27,All other diseases
+B699,All other diseases
+D360,All other diseases
+I868,All other diseases
+D049,All other diseases
+B941,All other diseases
+B450,All other diseases
+A431,All other diseases
+N883,All other diseases
+L409,All other diseases
+H600,All other diseases
+J359,All other diseases
+G950,All other diseases
+B380,All other diseases
+B602,All other diseases
+D749,All other diseases
+K634,All other diseases
+E559,All other diseases
+G210,All other diseases
+E42,All other diseases
+M872,All other diseases
+D069,All other diseases
+M009,All other diseases
+B341,All other diseases
+E748,All other diseases
+K633,All other diseases
+J391,All other diseases
+G009,All other diseases
+M792,All other diseases
+M254,All other diseases
+N700,All other diseases
+L405,All other diseases
+B150,All other diseases
+G253,All other diseases
+F119,All other diseases
+B59,All other diseases
+G510,All other diseases
+K117,All other diseases
+N418,All other diseases
+B408,All other diseases
+L80,All other diseases
+K623,All other diseases
+N939,All other diseases
+K515,All other diseases
+G523,All other diseases
+M728,All other diseases
+N158,All other diseases
+E069,All other diseases
+G406,All other diseases
+F133,All other diseases
+B279,All other diseases
+F182,All other diseases
+N840,All other diseases
+D169,All other diseases
+M615,All other diseases
+E065,All other diseases
+K763,All other diseases
+E059,All other diseases
+L029,All other diseases
+M192,All other diseases
+I872,All other diseases
+E259,All other diseases
+B162,All other diseases
+L905,All other diseases
+J219,All other diseases
+G318,All other diseases
+H059,All other diseases
+K122,All other diseases
+D762,All other diseases
+N309,All other diseases
+A812,All other diseases
+H332,All other diseases
+J324,All other diseases
+B003,All other diseases
+F323,All other diseases
+L100,All other diseases
+K223,All other diseases
+B387,All other diseases
+K858,All other diseases
+F195,All other diseases
+K571,All other diseases
+G474,All other diseases
+K921,All other diseases
+F114,All other diseases
+J019,All other diseases
+G549,All other diseases
+G371,All other diseases
+J218,All other diseases
+M711,All other diseases
+L309,All other diseases
+N824,All other diseases
+G618,All other diseases
+H351,All other diseases
+G540,All other diseases
+J850,All other diseases
+A832,All other diseases
+K828,All other diseases
+B690,All other diseases
+D311,All other diseases
+L023,All other diseases
+D431,All other diseases
+F489,All other diseases
+H118,All other diseases
+E291,All other diseases
+L108,All other diseases
+M357,All other diseases
+E050,All other diseases
+A022,All other diseases
+E272,All other diseases
+M159,All other diseases
+F104,All other diseases
+F459,All other diseases
+D470,All other diseases
+D219,All other diseases
+L021,All other diseases
+N768,All other diseases
+H309,All other diseases
+G958,All other diseases
+J672,All other diseases
+D819,All other diseases
+M465,All other diseases
+B572,All other diseases
+B342,All other diseases
+J210,All other diseases
+A752,All other diseases
+I889,All other diseases
+H814,All other diseases
+J969,All other diseases
+L308,All other diseases
+G803,All other diseases
+L041,All other diseases
+M434,All other diseases
+L509,All other diseases
+D591,All other diseases
+E162,All other diseases
+D849,All other diseases
+K511,All other diseases
+A870,All other diseases
+G602,All other diseases
+G119,All other diseases
+E055,All other diseases
+B54,All other diseases
+N498,All other diseases
+G933,All other diseases
+I952,All other diseases
+B012,All other diseases
+D373,All other diseases
+N304,All other diseases
+N288,All other diseases
+G111,All other diseases
+M816,All other diseases
+D377,All other diseases
+E210,All other diseases
+M478,All other diseases
+B582,All other diseases
+G112,All other diseases
+M119,All other diseases
+M843,All other diseases
+E848,All other diseases
+B469,All other diseases
+A073,All other diseases
+F111,All other diseases
+D45,All other diseases
+F259,All other diseases
+G908,All other diseases
+D680,All other diseases
+L89,All other diseases
+E260,All other diseases
+E512,All other diseases
+B851,All other diseases
+J679,All other diseases
+D550,All other diseases
+M471,All other diseases
+M413,All other diseases
+D561,All other diseases
+D820,All other diseases
+K029,All other diseases
+F89,All other diseases
+B351,All other diseases
+G722,All other diseases
+M855,All other diseases
+B252,All other diseases
+I801,All other diseases
+D179,All other diseases
+L219,All other diseases
+B460,All other diseases
+E662,All other diseases
+E806,All other diseases
+N800,All other diseases
+D020,All other diseases
+L984,All other diseases
+M852,All other diseases
+D143,All other diseases
+M948,All other diseases
+G448,All other diseases
+M896,All other diseases
+N399,All other diseases
+G09,All other diseases
+M246,All other diseases
+E742,All other diseases
+K820,All other diseases
+M488,All other diseases
+J340,All other diseases
+L121,All other diseases
+M100,All other diseases
+D123,All other diseases
+N340,All other diseases
+D447,All other diseases
+M501,All other diseases
+M538,All other diseases
+E756,All other diseases
+N201,All other diseases
+D644,All other diseases
+M758,All other diseases
+G451,All other diseases
+F500,All other diseases
+E728,All other diseases
+B832,All other diseases
+M838,All other diseases
+M545,All other diseases
+J020,All other diseases
+N132,All other diseases
+D816,All other diseases
+A833,All other diseases
+L128,All other diseases
+K901,All other diseases
+D730,All other diseases
+E781,All other diseases
+A839,All other diseases
+A850,All other diseases
+M774,All other diseases
+D641,All other diseases
+I831,All other diseases
+M199,All other diseases
+K420,All other diseases
+H540,All other diseases
+F193,All other diseases
+N322,All other diseases
+J00,All other diseases
+M702,All other diseases
+K823,All other diseases
+L942,All other diseases
+E65,All other diseases
+D891,All other diseases
+E789,All other diseases
+M608,All other diseases
+D434,All other diseases
+M920,All other diseases
+F842,All other diseases
+M318,All other diseases
+E619,All other diseases
+I880,All other diseases
+E615,All other diseases
+J691,All other diseases
+E638,All other diseases
+D508,All other diseases
+D022,All other diseases
+B550,All other diseases
+N320,All other diseases
+I951,All other diseases
+L438,All other diseases
+D175,All other diseases
+N600,All other diseases
+J358,All other diseases
+F70,All other diseases
+K381,All other diseases
+N140,All other diseases
+B354,All other diseases
+A403,All other diseases
+B86,All other diseases
+K626,All other diseases
+E834,All other diseases
+D331,All other diseases
+N136,All other diseases
+J670,All other diseases
+F157,All other diseases
+I861,All other diseases
+J028,All other diseases
+E45,All other diseases
+D899,All other diseases
+H709,All other diseases
+K851,All other diseases
+A878,All other diseases
+D383,All other diseases
+D130,All other diseases
+L985,All other diseases
+L038,All other diseases
+M797,All other diseases
+A422,All other diseases
+K711,All other diseases
+H440,All other diseases
+L609,All other diseases
+B393,All other diseases
+H445,All other diseases
+J339,All other diseases
+E052,All other diseases
+D649,All other diseases
+E783,All other diseases
+H520,All other diseases
+D531,All other diseases
+B388,All other diseases
+E061,All other diseases
+M109,All other diseases
+D190,All other diseases
+L819,All other diseases
+N948,All other diseases
+L138,All other diseases
+G238,All other diseases
+F142,All other diseases
+N951,All other diseases
+K021,All other diseases
+E744,All other diseases
+A938,All other diseases
+M790,All other diseases
+G121,All other diseases
+K580,All other diseases
+M623,All other diseases
+A90,All other diseases
+E273,All other diseases
+E051,All other diseases
+A044,All other diseases
+L506,All other diseases
+E243,All other diseases
+K079,All other diseases
+N732,All other diseases
+N200,All other diseases
+D370,All other diseases
+E034,All other diseases
+G500,All other diseases
+H400,All other diseases
+D839,All other diseases
+M314,All other diseases
+N312,All other diseases
+N369,All other diseases
+G701,All other diseases
+E754,All other diseases
+E730,All other diseases
+D448,All other diseases
+B439,All other diseases
+M818,All other diseases
+B399,All other diseases
+L88,All other diseases
+K040,All other diseases
+F488,All other diseases
+M543,All other diseases
+J321,All other diseases
+L278,All other diseases
+M245,All other diseases
+A540,All other diseases
+D748,All other diseases
+B850,All other diseases
+K039,All other diseases
+F239,All other diseases
+G245,All other diseases
+N419,All other diseases
+A493,All other diseases
+E319,All other diseases
+B698,All other diseases
+E169,All other diseases
+M339,All other diseases
+D316,All other diseases
+K351,All other diseases
+N822,All other diseases
+M213,All other diseases
+K115,All other diseases
+D261,All other diseases
+B382,All other diseases
+J941,All other diseases
+B509,All other diseases
+B384,All other diseases
+M959,All other diseases
+D214,All other diseases
+F061,All other diseases
+G118,All other diseases
+D390,All other diseases
+B888,All other diseases
+N485,All other diseases
+H702,All other diseases
+A046,All other diseases
+D168,All other diseases
+J869,All other diseases
+L033,All other diseases
+J323,All other diseases
+G603,All other diseases
+H342,All other diseases
+L270,All other diseases
+N412,All other diseases
+K222,All other diseases
+L858,All other diseases
+A601,All other diseases
+M130,All other diseases
+G113,All other diseases
+B375,All other diseases
+M898,All other diseases
+I950,All other diseases
+B333,All other diseases
+A090,All other diseases
+B179,All other diseases
+N361,All other diseases
+F454,All other diseases
+D552,All other diseases
+D251,All other diseases
+D229,All other diseases
+E048,All other diseases
+N450,All other diseases
+G042,All other diseases
+N433,All other diseases
+K353,All other diseases
+M509,All other diseases
+H499,All other diseases
+A328,All other diseases
+H052,All other diseases
+B07,All other diseases
+K908,All other diseases
+D110,All other diseases
+K352,All other diseases
+M799,All other diseases
+L929,All other diseases
+K522,All other diseases
+N209,All other diseases
+N138,All other diseases
+F844,All other diseases
+G541,All other diseases
+H358,All other diseases
+M791,All other diseases
+D235,All other diseases
+D823,All other diseases
+N809,All other diseases
+B392,All other diseases
+N343,All other diseases
+H46,All other diseases
+M353,All other diseases
+E060,All other diseases
+N324,All other diseases
+J338,All other diseases
+M833,All other diseases
+J302,All other diseases
+L870,All other diseases
+D429,All other diseases
+L928,All other diseases
+B462,All other diseases
+G061,All other diseases
+G213,All other diseases
+F988,All other diseases
+D212,All other diseases
+K627,All other diseases
+H350,All other diseases
+K592,All other diseases
+M750,All other diseases
+E68,All other diseases
+E771,All other diseases
+I841,All other diseases
+M861,All other diseases
+L032,All other diseases
+H356,All other diseases
+N491,All other diseases
+M800,All other diseases
+D109,All other diseases
+M879,All other diseases
+G545,All other diseases
+J310,All other diseases
+F519,All other diseases
+D751,All other diseases
+L280,All other diseases
+H119,All other diseases
+M859,All other diseases
+E678,All other diseases
+K069,All other diseases
+E850,All other diseases
+K710,All other diseases
+J351,All other diseases
+F232,All other diseases
+G471,All other diseases
+H700,All other diseases
+E723,All other diseases
+M804,All other diseases
+J069,All other diseases
+D092,All other diseases
+N821,All other diseases
+L892,All other diseases
+D002,All other diseases
+M308,All other diseases
+A083,All other diseases
+D129,All other diseases
+H604,All other diseases
+F071,All other diseases
+B574,All other diseases
+B457,All other diseases
+I802,All other diseases
+G030,All other diseases
+D484,All other diseases
+B75,All other diseases
+N711,All other diseases
+L519,All other diseases
+K808,All other diseases
+K070,All other diseases
+D693,All other diseases
+E038,All other diseases
+D692,All other diseases
+F117,All other diseases
+B343,All other diseases
+J632,All other diseases
+K716,All other diseases
+H535,All other diseases
+G218,All other diseases
+K111,All other diseases
+D698,All other diseases
+M008,All other diseases
+B369,All other diseases
+A267,All other diseases
+N413,All other diseases
+M941,All other diseases
+B019,All other diseases
+F155,All other diseases
+L940,All other diseases
+F310,All other diseases
+J341,All other diseases
+B308,All other diseases
+L814,All other diseases
+M678,All other diseases
+M358,All other diseases
+N760,All other diseases
+D367,All other diseases
+E800,All other diseases
+A053,All other diseases
+A94,All other diseases
+H602,All other diseases
+L890,All other diseases
+E440,All other diseases
+N736,All other diseases
+M895,All other diseases
+F059,All other diseases
+B344,All other diseases
+B269,All other diseases
+L111,All other diseases
+G128,All other diseases
+M541,All other diseases
+M438,All other diseases
+G719,All other diseases
+E805,All other diseases
+N641,All other diseases
+E229,All other diseases
+N301,All other diseases
+N920,All other diseases
+F137,All other diseases
+M460,All other diseases
+D237,All other diseases
+D309,All other diseases
+G830,All other diseases
+F429,All other diseases
+E851,All other diseases
+D136,All other diseases
+L049,All other diseases
+J701,All other diseases
+D319,All other diseases
+L891,All other diseases
+N150,All other diseases
+D573,All other diseases
+D898,All other diseases
+D075,All other diseases
+L080,All other diseases
+A984,All other diseases
+L237,All other diseases
+M601,All other diseases
+J202,All other diseases
+L022,All other diseases
+D232,All other diseases
+H102,All other diseases
+N808,All other diseases
+L00,All other diseases
+G575,All other diseases
+L948,All other diseases
+G619,All other diseases
+D139,All other diseases
+K132,All other diseases
+D128,All other diseases
+E740,All other diseases
+F161,All other diseases
+B001,All other diseases
+M810,All other diseases
+G401,All other diseases
+G543,All other diseases
+B020,All other diseases
+D519,All other diseases
+N429,All other diseases
+K715,All other diseases
+M870,All other diseases
+A811,All other diseases
+N61,All other diseases
+G369,All other diseases
+F340,All other diseases
+F079,All other diseases
+L245,All other diseases
+F72,All other diseases
+H313,All other diseases
+K421,All other diseases
+A014,All other diseases
+F163,All other diseases
+E041,All other diseases
+H741,All other diseases
+D729,All other diseases
+G904,All other diseases
+E201,All other diseases
+E164,All other diseases
+G571,All other diseases
+F959,All other diseases
+E561,All other diseases
+D199,All other diseases
+H210,All other diseases
+N879,All other diseases
+D812,All other diseases
+D044,All other diseases
+G518,All other diseases
+I879,All other diseases
+N489,All other diseases
+N134,All other diseases
+N952,All other diseases
+D140,All other diseases
+E849,All other diseases
+E749,All other diseases
+E743,All other diseases
+M479,All other diseases
+A759,All other diseases
+J929,All other diseases
+E725,All other diseases
+A429,All other diseases
+B371,All other diseases
+M350,All other diseases
+N411,All other diseases
+D354,All other diseases
+B302,All other diseases
+D017,All other diseases
+F82,All other diseases
+B028,All other diseases
+K501,All other diseases
+L52,All other diseases
+J64,All other diseases
+D225,All other diseases
+D141,All other diseases
+K102,All other diseases
+J304,All other diseases
+N852,All other diseases
+B900,All other diseases
+D808,All other diseases
+N483,All other diseases
+J938,All other diseases
+B458,All other diseases
+G804,All other diseases
+M679,All other diseases
+G431,All other diseases
+A773,All other diseases
+D691,All other diseases
+I899,All other diseases
+K130,All other diseases
+D740,All other diseases
+I821,All other diseases
+L902,All other diseases
+D568,All other diseases
+D290,All other diseases
+D374,All other diseases
+D590,All other diseases
+A70,All other diseases
+A400,All other diseases
+F070,All other diseases
+F122,All other diseases
+A829,All other diseases
+E236,All other diseases
+D280,All other diseases
+A242,All other diseases
+K000,All other diseases
+K612,All other diseases
+H701,All other diseases
+D291,All other diseases
+J370,All other diseases
+E242,All other diseases
+N818,All other diseases
+B050,All other diseases
+F252,All other diseases
+H492,All other diseases
+N360,All other diseases
+D681,All other diseases
+J322,All other diseases
+B589,All other diseases
+M330,All other diseases
+M204,All other diseases
+D529,All other diseases
+B429,All other diseases
+K621,All other diseases
+L403,All other diseases
+E222,All other diseases
+M122,All other diseases
+K458,All other diseases
+N710,All other diseases
+K862,All other diseases
+D611,All other diseases
+D038,All other diseases
+D560,All other diseases
+G038,All other diseases
+M244,All other diseases
+G579,All other diseases
+I848,All other diseases
+B068,All other diseases
+G528,All other diseases
+A230,All other diseases
+M257,All other diseases
+F308,All other diseases
+J303,All other diseases
+D500,All other diseases
+N938,All other diseases
+G378,All other diseases
+D721,All other diseases
+D437,All other diseases
+L739,All other diseases
+F160,All other diseases
+E309,All other diseases
+H021,All other diseases
+M880,All other diseases
+N738,All other diseases
+B679,All other diseases
+E012,All other diseases
+E345,All other diseases
+N801,All other diseases
+L512,All other diseases
+L850,All other diseases
+F181,All other diseases
+D868,All other diseases
+M064,All other diseases
+B879,All other diseases
+B583,All other diseases
+N144,All other diseases
+N823,All other diseases
+A251,All other diseases
+L749,All other diseases
+D401,All other diseases
+N23,All other diseases
+F88,All other diseases
+G832,All other diseases
+E328,All other diseases
+F010,All other diseases
+F603,All other diseases
+L299,All other diseases
+D014,All other diseases
+D127,All other diseases
+D399,All other diseases
+A46,All other diseases
+E801,All other diseases
+D200,All other diseases
+M779,All other diseases
+M815,All other diseases
+G802,All other diseases
+N813,All other diseases
+M432,All other diseases
+K512,All other diseases
+F918,All other diseases
+M539,All other diseases
+D174,All other diseases
+K451,All other diseases
+M858,All other diseases
+E550,All other diseases
+B468,All other diseases
+M518,All other diseases
+H472,All other diseases
+M112,All other diseases
+D411,All other diseases
+M050,All other diseases
+F419,All other diseases
+F983,All other diseases
+D813,All other diseases
+F400,All other diseases
+M703,All other diseases
+A038,All other diseases
+N739,All other diseases
+L239,All other diseases
+G438,All other diseases
+F206,All other diseases
+M436,All other diseases
+N907,All other diseases
+E063,All other diseases
+D090,All other diseases
+A401,All other diseases
+M250,All other diseases
+E209,All other diseases
+B171,All other diseases
+D608,All other diseases
+F194,All other diseases
+F192,All other diseases
+F849,All other diseases
+N730,All other diseases
+H441,All other diseases
+K718,All other diseases
+B519,All other diseases
+E160,All other diseases
+J382,All other diseases
+H619,All other diseases
+L949,All other diseases
+D446,All other diseases
+A029,All other diseases
+D685,All other diseases
+H312,All other diseases
+K314,All other diseases
+M621,All other diseases
+G410,All other diseases
+D752,All other diseases
+J668,All other diseases
+K146,All other diseases
+N854,All other diseases
+E511,All other diseases
+D384,All other diseases
+F332,All other diseases
+L101,All other diseases
+K073,All other diseases
+E349,All other diseases
+D215,All other diseases
+F521,All other diseases
+A288,All other diseases
+E784,All other diseases
+F132,All other diseases
+N368,All other diseases
+N46,All other diseases
+F140,All other diseases
+L922,All other diseases
+F819,All other diseases
+D074,All other diseases
+F302,All other diseases
+F320,All other diseases
+M706,All other diseases
+K574,All other diseases
+G508,All other diseases
+K575,All other diseases
+H058,All other diseases
+F812,All other diseases
+F197,All other diseases
+D861,All other diseases
+N488,All other diseases
+D160,All other diseases
+A082,All other diseases
+D310,All other diseases
+A35,All other diseases
+H547,All other diseases
+A830,All other diseases
+G252,All other diseases
+D511,All other diseases
+K903,All other diseases
+D133,All other diseases
+D596,All other diseases
+D119,All other diseases
+G470,All other diseases
+D059,All other diseases
+G723,All other diseases
+E269,All other diseases
+M063,All other diseases
+M502,All other diseases
+M500,All other diseases
+N819,All other diseases
+B360,All other diseases
+N921,All other diseases
+N219,All other diseases
+L139,All other diseases
+N805,All other diseases
+K400,All other diseases
+D600,All other diseases
+J983,All other diseases
+E798,All other diseases
+K382,All other diseases
+F505,All other diseases
+A060,All other diseases
+G368,All other diseases
+L910,All other diseases
+D142,All other diseases
+G439,All other diseases
+L259,All other diseases
+H341,All other diseases
+B481,All other diseases
+J848,All other diseases
+H500,All other diseases
+N903,All other diseases
+F105,All other diseases
+A838,All other diseases
+M080,All other diseases
+D292,All other diseases
+M942,All other diseases
+K048,All other diseases
+M131,All other diseases
+F681,All other diseases
+K589,All other diseases
+F444,All other diseases
+F328,All other diseases
+F78,All other diseases
+H911,All other diseases
+F311,All other diseases
+H498,All other diseases
+A041,All other diseases
+M190,All other diseases
+D269,All other diseases
+N421,All other diseases
+A691,All other diseases
+K007,All other diseases
+G961,All other diseases
+K613,All other diseases
+D582,All other diseases
+E729,All other diseases
+K054,All other diseases
+K853,All other diseases
+K460,All other diseases
+B190,All other diseases
+D010,All other diseases
+H939,All other diseases
+M138,All other diseases
+K751,All other diseases
+F203,All other diseases
+K313,All other diseases
+E782,All other diseases
+H533,All other diseases
+D609,All other diseases
+K071,All other diseases
+D036,All other diseases
+E739,All other diseases
+E741,All other diseases
+N432,All other diseases
+G609,All other diseases
+J312,All other diseases
+E751,All other diseases
+M659,All other diseases
+D047,All other diseases
+L893,All other diseases
+E873,All other diseases
+N398,All other diseases
+K752,All other diseases
+I803,All other diseases
+D166,All other diseases
+F410,All other diseases
+B085,All other diseases
+F145,All other diseases
+E032,All other diseases
+A310,All other diseases
+H269,All other diseases
+D382,All other diseases
+B428,All other diseases
+M624,All other diseases
+B483,All other diseases
+H318,All other diseases
+I891,All other diseases
+N501,All other diseases
+M751,All other diseases
+F658,All other diseases
+E233,All other diseases
+H449,All other diseases
+G909,All other diseases
+M664,All other diseases
+F401,All other diseases
+G542,All other diseases
+A888,All other diseases
+F018,All other diseases
+E610,All other diseases
+G902,All other diseases
+J920,All other diseases
+A799,All other diseases
+K055,All other diseases
+E320,All other diseases
+B479,All other diseases
+I842,All other diseases
+L298,All other diseases
+B420,All other diseases
+L418,All other diseases
+H509,All other diseases
+M511,All other diseases
+M123,All other diseases
+B069,All other diseases
+A081,All other diseases
+G529,All other diseases
+K228,All other diseases
+L853,All other diseases
+G041,All other diseases
+B600,All other diseases
+H494,All other diseases
+J010,All other diseases
+H920,All other diseases
+M121,All other diseases
+M651,All other diseases
+B452,All other diseases
+M911,All other diseases
+E40,All other diseases
+M863,All other diseases
+K36,All other diseases
+G509,All other diseases
+L950,All other diseases
+N751,All other diseases
+D134,All other diseases
+E661,All other diseases
+E791,All other diseases
+E640,All other diseases
+E702,All other diseases
+N810,All other diseases
+G522,All other diseases
+F411,All other diseases
+B172,All other diseases
+K100,All other diseases
+F169,All other diseases
+A920,All other diseases
+A818,All other diseases
+B830,All other diseases
+K113,All other diseases
+E630,All other diseases
+H931,All other diseases
+A749,All other diseases
+D581,All other diseases
+N926,All other diseases
+N814,All other diseases
+B394,All other diseases
+D159,All other diseases
+J343,All other diseases
+E671,All other diseases
+F189,All other diseases
+H109,All other diseases
+G587,All other diseases
+J853,All other diseases
+L208,All other diseases
+A062,All other diseases
+A924,All other diseases
+M513,All other diseases
+D012,All other diseases
+A630,All other diseases
+L720,All other diseases
+F631,All other diseases
+B000,All other diseases
+B453,All other diseases
+E283,All other diseases
+M061,All other diseases
+L130,All other diseases
+F841,All other diseases
+M483,All other diseases
+K402,All other diseases
+K310,All other diseases
+K076,All other diseases
+G64,All other diseases
+E643,All other diseases
+J677,All other diseases
+A427,All other diseases
+A99,All other diseases
+E248,All other diseases
+L97,All other diseases
+B559,All other diseases
+D421,All other diseases
+I800,All other diseases
+E058,All other diseases
+A209,All other diseases
+L102,All other diseases
+F121,All other diseases
+H531,All other diseases
+K852,All other diseases
+L959,All other diseases
+L042,All other diseases
+D613,All other diseases
+A851,All other diseases
+K605,All other diseases
+E807,All other diseases
+M849,All other diseases
+N949,All other diseases
+N941,All other diseases
+B650,All other diseases
+B400,All other diseases
+K137,All other diseases
+L909,All other diseases
+D302,All other diseases
+M995,All other diseases
+E755,All other diseases
+N946,All other diseases
+L84,All other diseases
+H618,All other diseases
+N830,All other diseases
+B463,All other diseases
+J684,All other diseases
+M839,All other diseases
+D162,All other diseases
+J030,All other diseases
+N981,All other diseases
+B407,All other diseases
+F321,All other diseases
+N825,All other diseases
+E803,All other diseases
+K591,All other diseases
+K098,All other diseases
+J038,All other diseases
+M602,All other diseases
+F480,All other diseases
+N979,All other diseases
+H609,All other diseases
+D073,All other diseases
+K118,All other diseases
+H71,All other diseases
+D863,All other diseases
+B431,All other diseases
+H811,All other diseases
+D449,All other diseases
+B701,All other diseases
+J350,All other diseases
+H830,All other diseases
+M214,All other diseases
+L931,All other diseases
+M481,All other diseases
+K850,All other diseases
+F848,All other diseases
+E078,All other diseases
+L271,All other diseases
+M878,All other diseases
+L440,All other diseases
+H512,All other diseases
+B664,All other diseases
+E779,All other diseases
+B338,All other diseases
+D260,All other diseases
+N731,All other diseases
+E342,All other diseases
+G212,All other diseases
+E163,All other diseases
+B010,All other diseases
+M118,All other diseases
+F012,All other diseases
+M218,All other diseases
+L817,All other diseases
+F150,All other diseases
+N766,All other diseases
+F349,All other diseases
+F909,All other diseases
+F21,All other diseases
+K299,All other diseases
+M411,All other diseases
+G622,All other diseases
+E221,All other diseases
+G407,All other diseases
+D683,All other diseases
+H570,All other diseases
+K123,All other diseases
+F068,All other diseases
+F388,All other diseases
+F911,All other diseases
+L131,All other diseases
+H913,All other diseases
+G831,All other diseases
+M928,All other diseases
+D563,All other diseases
+M840,All other diseases
+D409,All other diseases
+J36,All other diseases
+B178,All other diseases
+D592,All other diseases
+L419,All other diseases
+M201,All other diseases
+H938,All other diseases
+A270,All other diseases
+G560,All other diseases
+J014,All other diseases
+M665,All other diseases
+G501,All other diseases
+F131,All other diseases
+M125,All other diseases
+D824,All other diseases
+I840,All other diseases
+M472,All other diseases
+A068,All other diseases
+D34,All other diseases
+E299,All other diseases
+K092,All other diseases
+F445,All other diseases
+J638,All other diseases
+G900,All other diseases
+J301,All other diseases
+K119,All other diseases
+B09,All other diseases
+K312,All other diseases
+J399,All other diseases
+N110,All other diseases
+H601,All other diseases
+N893,All other diseases
+D104,All other diseases
+H810,All other diseases
+D152,All other diseases
+K074,All other diseases
+J620,All other diseases
+M766,All other diseases
+L732,All other diseases
+B401,All other diseases
+E58,All other diseases
+E54,All other diseases
+A542,All other diseases
+N490,All other diseases
+E278,All other diseases
+E883,All other diseases
+L301,All other diseases
+M170,All other diseases
+B180,All other diseases
+D076,All other diseases
+N391,All other diseases
+J353,All other diseases
+A009,All other diseases
+H355,All other diseases
+E569,All other diseases
+L744,All other diseases
+F452,All other diseases
+D101,All other diseases
+L731,All other diseases
+K140,All other diseases
+I860,All other diseases
+D551,All other diseases
+D838,All other diseases
+M910,All other diseases
+F449,All other diseases
+F989,All other diseases
+J371,All other diseases
+A692,All other diseases
+G601,All other diseases
+M925,All other diseases
+F144,All other diseases
+D121,All other diseases
+D300,All other diseases
+F930,All other diseases
+K622,All other diseases
+B64,All other diseases
+M532,All other diseases
+H527,All other diseases
+F143,All other diseases
+F639,All other diseases
+D042,All other diseases
+D019,All other diseases
+M219,All other diseases
+L721,All other diseases
+G250,All other diseases
+E009,All other diseases
+N762,All other diseases
+K610,All other diseases
+D303,All other diseases
+B356,All other diseases
+E062,All other diseases
+J011,All other diseases
+F69,All other diseases
+K513,All other diseases
+F309,All other diseases
+A848,All other diseases
+M939,All other diseases
+L983,All other diseases
+F606,All other diseases
+B083,All other diseases
+L104,All other diseases
+J708,All other diseases
+D828,All other diseases
+D072,All other diseases
+K053,All other diseases
+B902,All other diseases
+G032,All other diseases
+K108,All other diseases
+N323,All other diseases
+A010,All other diseases
+H024,All other diseases
+M154,All other diseases
+M873,All other diseases
+M705,All other diseases
+J698,All other diseases
+F430,All other diseases
+D501,All other diseases
+J634,All other diseases
+L980,All other diseases
+H659,All other diseases
+M546,All other diseases
+F338,All other diseases
+M052,All other diseases
+M320,All other diseases
+N72,All other diseases
+L678,All other diseases
+A065,All other diseases
+N835,All other diseases
+D442,All other diseases
+G563,All other diseases
+A482,All other diseases
+G820,All other diseases
+D417,All other diseases
+B811,All other diseases
+J704,All other diseases
+H578,All other diseases
+F300,All other diseases
+E329,All other diseases
+M089,All other diseases
+F153,All other diseases
+F318,All other diseases
+N62,All other diseases
+M167,All other diseases
+B005,All other diseases
+L119,All other diseases
+B908,All other diseases
+L906,All other diseases
+B681,All other diseases
+K508,All other diseases
+M400,All other diseases
+I832,All other diseases
+L600,All other diseases
+M851,All other diseases
+E750,All other diseases
+B059,All other diseases
+M626,All other diseases
+A835,All other diseases
+K601,All other diseases
+B350,All other diseases
+M533,All other diseases
+N362,All other diseases
+B278,All other diseases
+L83,All other diseases
+M128,All other diseases
+F628,All other diseases
+D893,All other diseases
+M720,All other diseases
+F600,All other diseases
+M429,All other diseases
+G833,All other diseases
+G418,All other diseases
+G412,All other diseases
+N709,All other diseases
+E289,All other diseases
+B372,All other diseases
+M802,All other diseases
+N908,All other diseases
+M955,All other diseases
+J661,All other diseases
+A069,All other diseases
+A219,All other diseases
+M722,All other diseases
+F982,All other diseases
+M850,All other diseases
+B018,All other diseases
+D097,All other diseases
+M405,All other diseases
+D105,All other diseases
+M712,All other diseases
+B052,All other diseases
+N480,All other diseases
+A599,All other diseases
+G214,All other diseases
+M856,All other diseases
+M253,All other diseases
+A043,All other diseases
+M715,All other diseases
+D024,All other diseases
+M068,All other diseases
+F134,All other diseases
+H359,All other diseases
+B780,All other diseases
+H504,All other diseases
+N897,All other diseases
+A370,All other diseases
+L508,All other diseases
+B487,All other diseases
+G440,All other diseases
+M401,All other diseases
+B383,All other diseases
+H905,All other diseases
+D818,All other diseases
+M461,All other diseases
+J630,All other diseases
+K078,All other diseases
+B878,All other diseases
+B373,All other diseases
+E612,All other diseases
+F067,All other diseases
+N410,All other diseases
+K401,All other diseases
+M510,All other diseases
+K081,All other diseases
+K109,All other diseases
+E212,All other diseases
+A55,All other diseases
+M871,All other diseases
+D804,All other diseases
+H738,All other diseases
+M798,All other diseases
+M302,All other diseases
+N420,All other diseases
+H187,All other diseases
+B002,All other diseases
+F811,All other diseases
+B271,All other diseases
+L209,All other diseases
+E030,All other diseases
+L400,All other diseases
+B769,All other diseases
+M468,All other diseases
+M248,All other diseases
+E275,All other diseases
+F453,All other diseases
+D832,All other diseases
+N902,All other diseases
+B940,All other diseases
+M710,All other diseases
+E208,All other diseases
+K604,All other diseases
+F28,All other diseases
+K510,All other diseases
+B353,All other diseases
+F063,All other diseases
+A202,All other diseases
+B482,All other diseases
+F39,All other diseases
+I888,All other diseases
+L899,All other diseases
+H505,All other diseases
+F438,All other diseases
+N851,All other diseases
+F608,All other diseases
+G564,All other diseases
+E02,All other diseases
+H708,All other diseases
+L439,All other diseases
+L303,All other diseases
+D282,All other diseases
+N898,All other diseases
+E52,All other diseases
+K136,All other diseases
+A066,All other diseases
+N701,All other diseases
+M943,All other diseases
+M862,All other diseases
+M865,All other diseases
+H108,All other diseases
+L598,All other diseases
+E531,All other diseases
+N392,All other diseases
+N318,All other diseases
+E200,All other diseases
+J683,All other diseases
+A212,All other diseases
+M814,All other diseases
+F845,All other diseases
+G370,All other diseases
+L570,All other diseases
+H051,All other diseases
+B889,All other diseases
+D045,All other diseases
+D407,All other diseases
+A449,All other diseases
+A207,All other diseases
+L559,All other diseases
+A282,All other diseases
+B608,All other diseases
+F601,All other diseases
+J328,All other diseases
+G361,All other diseases
+H185,All other diseases
+G114,All other diseases
+F900,All other diseases
+D046,All other diseases
+D811,All other diseases
+K833,All other diseases
+D231,All other diseases
+B659,All other diseases
+E712,All other diseases
+L253,All other diseases
+M198,All other diseases
+D037,All other diseases
+F609,All other diseases
+K811,All other diseases
+F201,All other diseases
+G402,All other diseases
+F190,All other diseases
+B833,All other diseases
+H524,All other diseases
+N648,All other diseases
+M707,All other diseases
+N950,All other diseases
+K558,All other diseases
+F441,All other diseases
+N803,All other diseases
+K050,All other diseases
+H534,All other diseases
+F050,All other diseases
+G254,All other diseases
+F803,All other diseases
+B812,All other diseases
+B601,All other diseases
+M189,All other diseases
+A690,All other diseases
+F450,All other diseases
+J206,All other diseases
+F952,All other diseases
+E753,All other diseases
+L709,All other diseases
+L050,All other diseases
+L304,All other diseases
+E853,All other diseases
+N930,All other diseases
+J204,All other diseases
+M328,All other diseases
+D091,All other diseases
+M894,All other diseases
+L010,All other diseases
+D172,All other diseases
+I844,All other diseases
+D021,All other diseases
+M860,All other diseases
+M704,All other diseases
+H432,All other diseases
+M002,All other diseases
+B570,All other diseases
+D686,All other diseases
+D313,All other diseases
+D039,All other diseases
+J678,All other diseases
+A962,All other diseases
+N118,All other diseases
+K030,All other diseases
+D191,All other diseases
+H549,All other diseases
+L920,All other diseases
+H809,All other diseases
+D099,All other diseases
+G512,All other diseases
+M200,All other diseases
+K006,All other diseases
+N508,All other diseases
+M420,All other diseases
+L879,All other diseases
+V837,Motor vehicle accidents
+V543,Motor vehicle accidents
+V221,Motor vehicle accidents
+V240,Motor vehicle accidents
+V805,Motor vehicle accidents
+V863,Motor vehicle accidents
+V570,Motor vehicle accidents
+V500,Motor vehicle accidents
+V359,Motor vehicle accidents
+V487,Motor vehicle accidents
+V883,Motor vehicle accidents
+V346,Motor vehicle accidents
+V384,Motor vehicle accidents
+V526,Motor vehicle accidents
+V566,Motor vehicle accidents
+V449,Motor vehicle accidents
+V446,Motor vehicle accidents
+V692,Motor vehicle accidents
+V409,Motor vehicle accidents
+V289,Motor vehicle accidents
+V583,Motor vehicle accidents
+V576,Motor vehicle accidents
+V041,Motor vehicle accidents
+V888,Motor vehicle accidents
+V696,Motor vehicle accidents
+V531,Motor vehicle accidents
+V873,Motor vehicle accidents
+V577,Motor vehicle accidents
+V675,Motor vehicle accidents
+V434,Motor vehicle accidents
+V196,Motor vehicle accidents
+V654,Motor vehicle accidents
+V273,Motor vehicle accidents
+V493,Motor vehicle accidents
+V039,Motor vehicle accidents
+V874,Motor vehicle accidents
+V864,Motor vehicle accidents
+V506,Motor vehicle accidents
+V345,Motor vehicle accidents
+V680,Motor vehicle accidents
+V691,Motor vehicle accidents
+V142,Motor vehicle accidents
+V887,Motor vehicle accidents
+V499,Motor vehicle accidents
+V659,Motor vehicle accidents
+V339,Motor vehicle accidents
+V201,Motor vehicle accidents
+V535,Motor vehicle accidents
+V647,Motor vehicle accidents
+V551,Motor vehicle accidents
+V416,Motor vehicle accidents
+V455,Motor vehicle accidents
+V486,Motor vehicle accidents
+V459,Motor vehicle accidents
+V555,Motor vehicle accidents
+V021,Motor vehicle accidents
+V365,Motor vehicle accidents
+V687,Motor vehicle accidents
+V586,Motor vehicle accidents
+V451,Motor vehicle accidents
+V844,Motor vehicle accidents
+V419,Motor vehicle accidents
+V673,Motor vehicle accidents
+V847,Motor vehicle accidents
+V439,Motor vehicle accidents
+V252,Motor vehicle accidents
+V603,Motor vehicle accidents
+V465,Motor vehicle accidents
+V593,Motor vehicle accidents
+V651,Motor vehicle accidents
+V296,Motor vehicle accidents
+V798,Motor vehicle accidents
+V882,Motor vehicle accidents
+V855,Motor vehicle accidents
+V770,Motor vehicle accidents
+V840,Motor vehicle accidents
+V646,Motor vehicle accidents
+V746,Motor vehicle accidents
+V546,Motor vehicle accidents
+V491,Motor vehicle accidents
+V866,Motor vehicle accidents
+V606,Motor vehicle accidents
+V437,Motor vehicle accidents
+V090,Motor vehicle accidents
+V604,Motor vehicle accidents
+V385,Motor vehicle accidents
+V435,Motor vehicle accidents
+V392,Motor vehicle accidents
+V843,Motor vehicle accidents
+V129,Motor vehicle accidents
+V406,Motor vehicle accidents
+V645,Motor vehicle accidents
+V132,Motor vehicle accidents
+V639,Motor vehicle accidents
+V144,Motor vehicle accidents
+V554,Motor vehicle accidents
+V139,Motor vehicle accidents
+V790,Motor vehicle accidents
+V233,Motor vehicle accidents
+V141,Motor vehicle accidents
+V876,Motor vehicle accidents
+V293,Motor vehicle accidents
+V245,Motor vehicle accidents
+V485,Motor vehicle accidents
+V832,Motor vehicle accidents
+V841,Motor vehicle accidents
+V796,Motor vehicle accidents
+V545,Motor vehicle accidents
+V489,Motor vehicle accidents
+V443,Motor vehicle accidents
+V292,Motor vehicle accidents
+V379,Motor vehicle accidents
+V477,Motor vehicle accidents
+V282,Motor vehicle accidents
+V845,Motor vehicle accidents
+V629,Motor vehicle accidents
+V029,Motor vehicle accidents
+V445,Motor vehicle accidents
+V856,Motor vehicle accidents
+V683,Motor vehicle accidents
+V877,Motor vehicle accidents
+V264,Motor vehicle accidents
+V831,Motor vehicle accidents
+V781,Motor vehicle accidents
+V450,Motor vehicle accidents
+V463,Motor vehicle accidents
+V851,Motor vehicle accidents
+V735,Motor vehicle accidents
+V544,Motor vehicle accidents
+V220,Motor vehicle accidents
+V685,Motor vehicle accidents
+V581,Motor vehicle accidents
+V407,Motor vehicle accidents
+V594,Motor vehicle accidents
+V550,Motor vehicle accidents
+V842,Motor vehicle accidents
+V861,Motor vehicle accidents
+V575,Motor vehicle accidents
+V270,Motor vehicle accidents
+V040,Motor vehicle accidents
+V030,Motor vehicle accidents
+V134,Motor vehicle accidents
+V804,Motor vehicle accidents
+V231,Motor vehicle accidents
+V255,Motor vehicle accidents
+V414,Motor vehicle accidents
+V572,Motor vehicle accidents
+V454,Motor vehicle accidents
+V225,Motor vehicle accidents
+V867,Motor vehicle accidents
+V795,Motor vehicle accidents
+V534,Motor vehicle accidents
+V473,Motor vehicle accidents
+V219,Motor vehicle accidents
+V415,Motor vehicle accidents
+V190,Motor vehicle accidents
+V490,Motor vehicle accidents
+V202,Motor vehicle accidents
+V601,Motor vehicle accidents
+V739,Motor vehicle accidents
+V249,Motor vehicle accidents
+V875,Motor vehicle accidents
+V595,Motor vehicle accidents
+V653,Motor vehicle accidents
+V440,Motor vehicle accidents
+V830,Motor vehicle accidents
+V794,Motor vehicle accidents
+V619,Motor vehicle accidents
+V609,Motor vehicle accidents
+V433,Motor vehicle accidents
+V400,Motor vehicle accidents
+V644,Motor vehicle accidents
+V335,Motor vehicle accidents
+V290,Motor vehicle accidents
+V404,Motor vehicle accidents
+V676,Motor vehicle accidents
+V251,Motor vehicle accidents
+V529,Motor vehicle accidents
+V324,Motor vehicle accidents
+V811,Motor vehicle accidents
+V784,Motor vehicle accidents
+V430,Motor vehicle accidents
+V694,Motor vehicle accidents
+V776,Motor vehicle accidents
+V495,Motor vehicle accidents
+V836,Motor vehicle accidents
+V865,Motor vehicle accidents
+V232,Motor vehicle accidents
+V205,Motor vehicle accidents
+V444,Motor vehicle accidents
+V878,Motor vehicle accidents
+V425,Motor vehicle accidents
+V682,Motor vehicle accidents
+V092,Motor vehicle accidents
+V589,Motor vehicle accidents
+V283,Motor vehicle accidents
+V519,Motor vehicle accidents
+V209,Motor vehicle accidents
+V859,Motor vehicle accidents
+V860,Motor vehicle accidents
+V424,Motor vehicle accidents
+V881,Motor vehicle accidents
+V792,Motor vehicle accidents
+V476,Motor vehicle accidents
+V460,Motor vehicle accidents
+V194,Motor vehicle accidents
+V580,Motor vehicle accidents
+V334,Motor vehicle accidents
+V671,Motor vehicle accidents
+V481,Motor vehicle accidents
+V192,Motor vehicle accidents
+V472,Motor vehicle accidents
+V229,Motor vehicle accidents
+V279,Motor vehicle accidents
+V191,Motor vehicle accidents
+V309,Motor vehicle accidents
+V849,Motor vehicle accidents
+V259,Motor vehicle accidents
+V677,Motor vehicle accidents
+V537,Motor vehicle accidents
+V131,Motor vehicle accidents
+V401,Motor vehicle accidents
+V281,Motor vehicle accidents
+V890,Motor vehicle accidents
+V020,Motor vehicle accidents
+V145,Motor vehicle accidents
+V699,Motor vehicle accidents
+V596,Motor vehicle accidents
+V234,Motor vehicle accidents
+V441,Motor vehicle accidents
+V396,Motor vehicle accidents
+V475,Motor vehicle accidents
+V235,Motor vehicle accidents
+V429,Motor vehicle accidents
+V482,Motor vehicle accidents
+V636,Motor vehicle accidents
+V689,Motor vehicle accidents
+V605,Motor vehicle accidents
+V745,Motor vehicle accidents
+V525,Motor vehicle accidents
+V650,Motor vehicle accidents
+V656,Motor vehicle accidents
+V536,Motor vehicle accidents
+V215,Motor vehicle accidents
+V783,Motor vehicle accidents
+V498,Motor vehicle accidents
+V599,Motor vehicle accidents
+V835,Motor vehicle accidents
+V263,Motor vehicle accidents
+V285,Motor vehicle accidents
+V269,Motor vehicle accidents
+V436,Motor vehicle accidents
+V195,Motor vehicle accidents
+V569,Motor vehicle accidents
+V565,Motor vehicle accidents
+V484,Motor vehicle accidents
+V789,Motor vehicle accidents
+V214,Motor vehicle accidents
+V427,Motor vehicle accidents
+V530,Motor vehicle accidents
+V496,Motor vehicle accidents
+V466,Motor vehicle accidents
+V870,Motor vehicle accidents
+V380,Motor vehicle accidents
+V469,Motor vehicle accidents
+V320,Motor vehicle accidents
+V549,Motor vehicle accidents
+V224,Motor vehicle accidents
+V592,Motor vehicle accidents
+V431,Motor vehicle accidents
+V598,Motor vehicle accidents
+V124,Motor vehicle accidents
+V556,Motor vehicle accidents
+V839,Motor vehicle accidents
+V453,Motor vehicle accidents
+V325,Motor vehicle accidents
+V665,Motor vehicle accidents
+V773,Motor vehicle accidents
+V670,Motor vehicle accidents
+V547,Motor vehicle accidents
+V602,Motor vehicle accidents
+V492,Motor vehicle accidents
+V301,Motor vehicle accidents
+V755,Motor vehicle accidents
+V834,Motor vehicle accidents
+V483,Motor vehicle accidents
+V591,Motor vehicle accidents
+V641,Motor vehicle accidents
+V504,Motor vehicle accidents
+V370,Motor vehicle accidents
+V501,Motor vehicle accidents
+V254,Motor vehicle accidents
+V467,Motor vehicle accidents
+V133,Motor vehicle accidents
+V242,Motor vehicle accidents
+V669,Motor vehicle accidents
+V649,Motor vehicle accidents
+V869,Motor vehicle accidents
+V584,Motor vehicle accidents
+V892,Motor vehicle accidents
+V574,Motor vehicle accidents
+V693,Motor vehicle accidents
+V625,Motor vehicle accidents
+V852,Motor vehicle accidents
+V447,Motor vehicle accidents
+V204,Motor vehicle accidents
+V726,Motor vehicle accidents
+V695,Motor vehicle accidents
+V686,Motor vehicle accidents
+V223,Motor vehicle accidents
+V470,Motor vehicle accidents
+V833,Motor vehicle accidents
+V779,Motor vehicle accidents
+V420,Motor vehicle accidents
+V655,Motor vehicle accidents
+V684,Motor vehicle accidents
+V679,Motor vehicle accidents
+V299,Motor vehicle accidents
+V793,Motor vehicle accidents
+V571,Motor vehicle accidents
+V635,Motor vehicle accidents
+V573,Motor vehicle accidents
+V130,Motor vehicle accidents
+V698,Motor vehicle accidents
+V590,Motor vehicle accidents
+V474,Motor vehicle accidents
+V582,Motor vehicle accidents
+V634,Motor vehicle accidents
+V862,Motor vehicle accidents
+V280,Motor vehicle accidents
+V398,Motor vehicle accidents
+V643,Motor vehicle accidents
+V479,Motor vehicle accidents
+V690,Motor vehicle accidents
+V786,Motor vehicle accidents
+V426,Motor vehicle accidents
+V539,Motor vehicle accidents
+V294,Motor vehicle accidents
+V607,Motor vehicle accidents
+V355,Motor vehicle accidents
+V480,Motor vehicle accidents
+V660,Motor vehicle accidents
+V780,Motor vehicle accidents
+V291,Motor vehicle accidents
+V853,Motor vehicle accidents
+V509,Motor vehicle accidents
+V399,Motor vehicle accidents
+V140,Motor vehicle accidents
+V456,Motor vehicle accidents
+V756,Motor vehicle accidents
+V394,Motor vehicle accidents
+V149,Motor vehicle accidents
+V729,Motor vehicle accidents
+V274,Motor vehicle accidents
+V846,Motor vehicle accidents
+V243,Motor vehicle accidents
+V642,Motor vehicle accidents
+V769,Motor vehicle accidents
+V143,Motor vehicle accidents
+V559,Motor vehicle accidents
+V799,Motor vehicle accidents
+V775,Motor vehicle accidents
+V541,Motor vehicle accidents
+V736,Motor vehicle accidents
+V275,Motor vehicle accidents
+V681,Motor vehicle accidents
+V674,Motor vehicle accidents
+V265,Motor vehicle accidents
+V871,Motor vehicle accidents
+V432,Motor vehicle accidents
+V540,Motor vehicle accidents
+V857,Motor vehicle accidents
+V553,Motor vehicle accidents
+V515,Motor vehicle accidents
+V782,Motor vehicle accidents
+V471,Motor vehicle accidents
+V295,Motor vehicle accidents
+V239,Motor vehicle accidents
+V505,Motor vehicle accidents
+V284,Motor vehicle accidents
+V666,Motor vehicle accidents
+V049,Motor vehicle accidents
+V749,Motor vehicle accidents
+V031,Motor vehicle accidents
+V405,Motor vehicle accidents
+V244,Motor vehicle accidents
+V305,Motor vehicle accidents
+V516,Motor vehicle accidents
+V389,Motor vehicle accidents
+V785,Motor vehicle accidents
+V395,Motor vehicle accidents
+V135,Motor vehicle accidents
+V393,Motor vehicle accidents
+V585,Motor vehicle accidents
+V587,Motor vehicle accidents
+V386,Motor vehicle accidents
+V230,Motor vehicle accidents
+V886,Motor vehicle accidents
+V222,Motor vehicle accidents
+V298,Motor vehicle accidents
+V640,Motor vehicle accidents
+V884,Motor vehicle accidents
+V872,Motor vehicle accidents
+V810,Motor vehicle accidents
+V880,Motor vehicle accidents
+V250,Motor vehicle accidents
+V850,Motor vehicle accidents
+V579,Motor vehicle accidents
+V200,Motor vehicle accidents
+V383,Motor vehicle accidents
+V375,Motor vehicle accidents
+V706,Motor vehicle accidents
+V272,Motor vehicle accidents
+V494,Motor vehicle accidents
+V271,Motor vehicle accidents
+W92,All other and unspec accidents and adverse effects
+W44,All other and unspec accidents and adverse effects
+Y639,All other and unspec accidents and adverse effects
+X19,All other and unspec accidents and adverse effects
+V812,All other and unspec accidents and adverse effects
+Y844,All other and unspec accidents and adverse effects
+Y608,All other and unspec accidents and adverse effects
+W54,All other and unspec accidents and adverse effects
+V185,All other and unspec accidents and adverse effects
+Y839,All other and unspec accidents and adverse effects
+Y626,All other and unspec accidents and adverse effects
+W23,All other and unspec accidents and adverse effects
+X05,All other and unspec accidents and adverse effects
+W87,All other and unspec accidents and adverse effects
+X39,All other and unspec accidents and adverse effects
+Y493,All other and unspec accidents and adverse effects
+V927,All other and unspec accidents and adverse effects
+V903,All other and unspec accidents and adverse effects
+X32,All other and unspec accidents and adverse effects
+Y407,All other and unspec accidents and adverse effects
+W22,All other and unspec accidents and adverse effects
+Y650,All other and unspec accidents and adverse effects
+X00,All other and unspec accidents and adverse effects
+V970,All other and unspec accidents and adverse effects
+Y567,All other and unspec accidents and adverse effects
+Y424,All other and unspec accidents and adverse effects
+Y531,All other and unspec accidents and adverse effects
+W18,All other and unspec accidents and adverse effects
+V902,All other and unspec accidents and adverse effects
+V931,All other and unspec accidents and adverse effects
+W78,All other and unspec accidents and adverse effects
+Y584,All other and unspec accidents and adverse effects
+W17,All other and unspec accidents and adverse effects
+V189,All other and unspec accidents and adverse effects
+Y649,All other and unspec accidents and adverse effects
+Y442,All other and unspec accidents and adverse effects
+Y579,All other and unspec accidents and adverse effects
+W32,All other and unspec accidents and adverse effects
+Y834,All other and unspec accidents and adverse effects
+Y480,All other and unspec accidents and adverse effects
+X33,All other and unspec accidents and adverse effects
+Y658,All other and unspec accidents and adverse effects
+Y513,All other and unspec accidents and adverse effects
+W25,All other and unspec accidents and adverse effects
+Y404,All other and unspec accidents and adverse effects
+W53,All other and unspec accidents and adverse effects
+W80,All other and unspec accidents and adverse effects
+Y628,All other and unspec accidents and adverse effects
+Y838,All other and unspec accidents and adverse effects
+V175,All other and unspec accidents and adverse effects
+X16,All other and unspec accidents and adverse effects
+W83,All other and unspec accidents and adverse effects
+W74,All other and unspec accidents and adverse effects
+Y881,All other and unspec accidents and adverse effects
+Y423,All other and unspec accidents and adverse effects
+X40,All other and unspec accidents and adverse effects
+W12,All other and unspec accidents and adverse effects
+X22,All other and unspec accidents and adverse effects
+V816,All other and unspec accidents and adverse effects
+Y402,All other and unspec accidents and adverse effects
+Y551,All other and unspec accidents and adverse effects
+W31,All other and unspec accidents and adverse effects
+W02,All other and unspec accidents and adverse effects
+V801,All other and unspec accidents and adverse effects
+Y449,All other and unspec accidents and adverse effects
+W52,All other and unspec accidents and adverse effects
+Y403,All other and unspec accidents and adverse effects
+W34,All other and unspec accidents and adverse effects
+W60,All other and unspec accidents and adverse effects
+Y564,All other and unspec accidents and adverse effects
+Y602,All other and unspec accidents and adverse effects
+W57,All other and unspec accidents and adverse effects
+Y66,All other and unspec accidents and adverse effects
+W39,All other and unspec accidents and adverse effects
+Y548,All other and unspec accidents and adverse effects
+X44,All other and unspec accidents and adverse effects
+W51,All other and unspec accidents and adverse effects
+Y484,All other and unspec accidents and adverse effects
+Y434,All other and unspec accidents and adverse effects
+X18,All other and unspec accidents and adverse effects
+X31,All other and unspec accidents and adverse effects
+Y832,All other and unspec accidents and adverse effects
+Y601,All other and unspec accidents and adverse effects
+V930,All other and unspec accidents and adverse effects
+Y450,All other and unspec accidents and adverse effects
+Y802,All other and unspec accidents and adverse effects
+Y498,All other and unspec accidents and adverse effects
+X08,All other and unspec accidents and adverse effects
+X58,All other and unspec accidents and adverse effects
+X20,All other and unspec accidents and adverse effects
+Y471,All other and unspec accidents and adverse effects
+Y563,All other and unspec accidents and adverse effects
+V112,All other and unspec accidents and adverse effects
+V198,All other and unspec accidents and adverse effects
+Y497,All other and unspec accidents and adverse effects
+V183,All other and unspec accidents and adverse effects
+X349,All other and unspec accidents and adverse effects
+W19,All other and unspec accidents and adverse effects
+Y549,All other and unspec accidents and adverse effects
+W45,All other and unspec accidents and adverse effects
+Y882,All other and unspec accidents and adverse effects
+W49,All other and unspec accidents and adverse effects
+V889,All other and unspec accidents and adverse effects
+X50,All other and unspec accidents and adverse effects
+Y835,All other and unspec accidents and adverse effects
+V815,All other and unspec accidents and adverse effects
+V958,All other and unspec accidents and adverse effects
+V914,All other and unspec accidents and adverse effects
+X06,All other and unspec accidents and adverse effects
+Y440,All other and unspec accidents and adverse effects
+Y820,All other and unspec accidents and adverse effects
+Y411,All other and unspec accidents and adverse effects
+Y462,All other and unspec accidents and adverse effects
+V011,All other and unspec accidents and adverse effects
+V910,All other and unspec accidents and adverse effects
+Y651,All other and unspec accidents and adverse effects
+W67,All other and unspec accidents and adverse effects
+Y459,All other and unspec accidents and adverse effects
+V099,All other and unspec accidents and adverse effects
+W76,All other and unspec accidents and adverse effects
+W07,All other and unspec accidents and adverse effects
+V174,All other and unspec accidents and adverse effects
+X09,All other and unspec accidents and adverse effects
+Y575,All other and unspec accidents and adverse effects
+X01,All other and unspec accidents and adverse effects
+V944,All other and unspec accidents and adverse effects
+Y833,All other and unspec accidents and adverse effects
+W70,All other and unspec accidents and adverse effects
+V932,All other and unspec accidents and adverse effects
+W81,All other and unspec accidents and adverse effects
+Y568,All other and unspec accidents and adverse effects
+Y521,All other and unspec accidents and adverse effects
+Y515,All other and unspec accidents and adverse effects
+Y428,All other and unspec accidents and adverse effects
+Y830,All other and unspec accidents and adverse effects
+X29,All other and unspec accidents and adverse effects
+V899,All other and unspec accidents and adverse effects
+X51,All other and unspec accidents and adverse effects
+W11,All other and unspec accidents and adverse effects
+Y614,All other and unspec accidents and adverse effects
+W65,All other and unspec accidents and adverse effects
+V809,All other and unspec accidents and adverse effects
+Y576,All other and unspec accidents and adverse effects
+Y846,All other and unspec accidents and adverse effects
+Y522,All other and unspec accidents and adverse effects
+V912,All other and unspec accidents and adverse effects
+V916,All other and unspec accidents and adverse effects
+Y433,All other and unspec accidents and adverse effects
+V945,All other and unspec accidents and adverse effects
+V150,All other and unspec accidents and adverse effects
+W33,All other and unspec accidents and adverse effects
+X03,All other and unspec accidents and adverse effects
+X52,All other and unspec accidents and adverse effects
+X02,All other and unspec accidents and adverse effects
+Y605,All other and unspec accidents and adverse effects
+V909,All other and unspec accidents and adverse effects
+Y446,All other and unspec accidents and adverse effects
+Y577,All other and unspec accidents and adverse effects
+X04,All other and unspec accidents and adverse effects
+W66,All other and unspec accidents and adverse effects
+W69,All other and unspec accidents and adverse effects
+Y479,All other and unspec accidents and adverse effects
+V010,All other and unspec accidents and adverse effects
+W86,All other and unspec accidents and adverse effects
+V159,All other and unspec accidents and adverse effects
+V972,All other and unspec accidents and adverse effects
+V933,All other and unspec accidents and adverse effects
+V826,All other and unspec accidents and adverse effects
+V938,All other and unspec accidents and adverse effects
+Y801,All other and unspec accidents and adverse effects
+Y461,All other and unspec accidents and adverse effects
+Y599,All other and unspec accidents and adverse effects
+V947,All other and unspec accidents and adverse effects
+V184,All other and unspec accidents and adverse effects
+Y430,All other and unspec accidents and adverse effects
+X17,All other and unspec accidents and adverse effects
+Y468,All other and unspec accidents and adverse effects
+Y880,All other and unspec accidents and adverse effects
+V060,All other and unspec accidents and adverse effects
+V151,All other and unspec accidents and adverse effects
+X590,All other and unspec accidents and adverse effects
+V154,All other and unspec accidents and adverse effects
+Y600,All other and unspec accidents and adverse effects
+Y612,All other and unspec accidents and adverse effects
+V893,All other and unspec accidents and adverse effects
+X41,All other and unspec accidents and adverse effects
+W58,All other and unspec accidents and adverse effects
+V819,All other and unspec accidents and adverse effects
+X36,All other and unspec accidents and adverse effects
+W21,All other and unspec accidents and adverse effects
+V959,All other and unspec accidents and adverse effects
+X25,All other and unspec accidents and adverse effects
+X53,All other and unspec accidents and adverse effects
+W55,All other and unspec accidents and adverse effects
+W20,All other and unspec accidents and adverse effects
+W13,All other and unspec accidents and adverse effects
+Y654,All other and unspec accidents and adverse effects
+Y616,All other and unspec accidents and adverse effects
+Y607,All other and unspec accidents and adverse effects
+Y466,All other and unspec accidents and adverse effects
+Y482,All other and unspec accidents and adverse effects
+Y470,All other and unspec accidents and adverse effects
+V941,All other and unspec accidents and adverse effects
+V824,All other and unspec accidents and adverse effects
+Y553,All other and unspec accidents and adverse effects
+W04,All other and unspec accidents and adverse effects
+Y492,All other and unspec accidents and adverse effects
+W08,All other and unspec accidents and adverse effects
+Y543,All other and unspec accidents and adverse effects
+Y842,All other and unspec accidents and adverse effects
+Y617,All other and unspec accidents and adverse effects
+X34,All other and unspec accidents and adverse effects
+V110,All other and unspec accidents and adverse effects
+V172,All other and unspec accidents and adverse effects
+Y533,All other and unspec accidents and adverse effects
+Y632,All other and unspec accidents and adverse effects
+V973,All other and unspec accidents and adverse effects
+W01,All other and unspec accidents and adverse effects
+Y570,All other and unspec accidents and adverse effects
+X46,All other and unspec accidents and adverse effects
+Y519,All other and unspec accidents and adverse effects
+Y525,All other and unspec accidents and adverse effects
+V059,All other and unspec accidents and adverse effects
+Y69,All other and unspec accidents and adverse effects
+V951,All other and unspec accidents and adverse effects
+X49,All other and unspec accidents and adverse effects
+W03,All other and unspec accidents and adverse effects
+Y831,All other and unspec accidents and adverse effects
+V942,All other and unspec accidents and adverse effects
+W59,All other and unspec accidents and adverse effects
+Y731,All other and unspec accidents and adverse effects
+V829,All other and unspec accidents and adverse effects
+Y499,All other and unspec accidents and adverse effects
+Y812,All other and unspec accidents and adverse effects
+Y86,All other and unspec accidents and adverse effects
+W36,All other and unspec accidents and adverse effects
+X21,All other and unspec accidents and adverse effects
+Y840,All other and unspec accidents and adverse effects
+W85,All other and unspec accidents and adverse effects
+V929,All other and unspec accidents and adverse effects
+V164,All other and unspec accidents and adverse effects
+V193,All other and unspec accidents and adverse effects
+V940,All other and unspec accidents and adverse effects
+V879,All other and unspec accidents and adverse effects
+Y544,All other and unspec accidents and adverse effects
+Y619,All other and unspec accidents and adverse effects
+Y414,All other and unspec accidents and adverse effects
+Y410,All other and unspec accidents and adverse effects
+W93,All other and unspec accidents and adverse effects
+Y485,All other and unspec accidents and adverse effects
+Y578,All other and unspec accidents and adverse effects
+X57,All other and unspec accidents and adverse effects
+Y633,All other and unspec accidents and adverse effects
+Y408,All other and unspec accidents and adverse effects
+Y554,All other and unspec accidents and adverse effects
+V969,All other and unspec accidents and adverse effects
+Y517,All other and unspec accidents and adverse effects
+V922,All other and unspec accidents and adverse effects
+Y490,All other and unspec accidents and adverse effects
+Y625,All other and unspec accidents and adverse effects
+X23,All other and unspec accidents and adverse effects
+W75,All other and unspec accidents and adverse effects
+W79,All other and unspec accidents and adverse effects
+V114,All other and unspec accidents and adverse effects
+V119,All other and unspec accidents and adverse effects
+Y458,All other and unspec accidents and adverse effects
+V051,All other and unspec accidents and adverse effects
+X45,All other and unspec accidents and adverse effects
+Y609,All other and unspec accidents and adverse effects
+V091,All other and unspec accidents and adverse effects
+Y648,All other and unspec accidents and adverse effects
+Y527,All other and unspec accidents and adverse effects
+W10,All other and unspec accidents and adverse effects
+Y452,All other and unspec accidents and adverse effects
+Y447,All other and unspec accidents and adverse effects
+V104,All other and unspec accidents and adverse effects
+V019,All other and unspec accidents and adverse effects
+V926,All other and unspec accidents and adverse effects
+X47,All other and unspec accidents and adverse effects
+Y848,All other and unspec accidents and adverse effects
+W37,All other and unspec accidents and adverse effects
+Y454,All other and unspec accidents and adverse effects
+X38,All other and unspec accidents and adverse effects
+V891,All other and unspec accidents and adverse effects
+Y622,All other and unspec accidents and adverse effects
+Y606,All other and unspec accidents and adverse effects
+Y494,All other and unspec accidents and adverse effects
+Y624,All other and unspec accidents and adverse effects
+Y823,All other and unspec accidents and adverse effects
+Y529,All other and unspec accidents and adverse effects
+Y451,All other and unspec accidents and adverse effects
+Y435,All other and unspec accidents and adverse effects
+V800,All other and unspec accidents and adverse effects
+Y520,All other and unspec accidents and adverse effects
+W56,All other and unspec accidents and adverse effects
+W64,All other and unspec accidents and adverse effects
+V928,All other and unspec accidents and adverse effects
+V900,All other and unspec accidents and adverse effects
+V807,All other and unspec accidents and adverse effects
+V915,All other and unspec accidents and adverse effects
+Y443,All other and unspec accidents and adverse effects
+Y618,All other and unspec accidents and adverse effects
+V946,All other and unspec accidents and adverse effects
+X30,All other and unspec accidents and adverse effects
+W38,All other and unspec accidents and adverse effects
+Y436,All other and unspec accidents and adverse effects
+V808,All other and unspec accidents and adverse effects
+V180,All other and unspec accidents and adverse effects
+W50,All other and unspec accidents and adverse effects
+V162,All other and unspec accidents and adverse effects
+Y836,All other and unspec accidents and adverse effects
+Y638,All other and unspec accidents and adverse effects
+V904,All other and unspec accidents and adverse effects
+W41,All other and unspec accidents and adverse effects
+V923,All other and unspec accidents and adverse effects
+V935,All other and unspec accidents and adverse effects
+V924,All other and unspec accidents and adverse effects
+W77,All other and unspec accidents and adverse effects
+Y712,All other and unspec accidents and adverse effects
+V917,All other and unspec accidents and adverse effects
+X11,All other and unspec accidents and adverse effects
+V968,All other and unspec accidents and adverse effects
+Y841,All other and unspec accidents and adverse effects
+W46,All other and unspec accidents and adverse effects
+W06,All other and unspec accidents and adverse effects
+V906,All other and unspec accidents and adverse effects
+V918,All other and unspec accidents and adverse effects
+Y441,All other and unspec accidents and adverse effects
+W68,All other and unspec accidents and adverse effects
+X59,All other and unspec accidents and adverse effects
+V155,All other and unspec accidents and adverse effects
+V960,All other and unspec accidents and adverse effects
+V948,All other and unspec accidents and adverse effects
+X42,All other and unspec accidents and adverse effects
+Y419,All other and unspec accidents and adverse effects
+W09,All other and unspec accidents and adverse effects
+V943,All other and unspec accidents and adverse effects
+Y631,All other and unspec accidents and adverse effects
+Y415,All other and unspec accidents and adverse effects
+V102,All other and unspec accidents and adverse effects
+V109,All other and unspec accidents and adverse effects
+Y550,All other and unspec accidents and adverse effects
+Y546,All other and unspec accidents and adverse effects
+V978,All other and unspec accidents and adverse effects
+W14,All other and unspec accidents and adverse effects
+V152,All other and unspec accidents and adverse effects
+Y400,All other and unspec accidents and adverse effects
+V100,All other and unspec accidents and adverse effects
+Y590,All other and unspec accidents and adverse effects
+Y523,All other and unspec accidents and adverse effects
+Y420,All other and unspec accidents and adverse effects
+Y849,All other and unspec accidents and adverse effects
+V050,All other and unspec accidents and adverse effects
+V817,All other and unspec accidents and adverse effects
+W40,All other and unspec accidents and adverse effects
+V934,All other and unspec accidents and adverse effects
+Y603,All other and unspec accidents and adverse effects
+W42,All other and unspec accidents and adverse effects
+V949,All other and unspec accidents and adverse effects
+W84,All other and unspec accidents and adverse effects
+V952,All other and unspec accidents and adverse effects
+V061,All other and unspec accidents and adverse effects
+V911,All other and unspec accidents and adverse effects
+X599,All other and unspec accidents and adverse effects
+Y640,All other and unspec accidents and adverse effects
+Y483,All other and unspec accidents and adverse effects
+Y465,All other and unspec accidents and adverse effects
+Y741,All other and unspec accidents and adverse effects
+Y401,All other and unspec accidents and adverse effects
+Y535,All other and unspec accidents and adverse effects
+Y464,All other and unspec accidents and adverse effects
+W73,All other and unspec accidents and adverse effects
+V962,All other and unspec accidents and adverse effects
+W24,All other and unspec accidents and adverse effects
+Y845,All other and unspec accidents and adverse effects
+Y453,All other and unspec accidents and adverse effects
+V939,All other and unspec accidents and adverse effects
+V814,All other and unspec accidents and adverse effects
+Y850,All other and unspec accidents and adverse effects
+Y545,All other and unspec accidents and adverse effects
+V818,All other and unspec accidents and adverse effects
+Y843,All other and unspec accidents and adverse effects
+V913,All other and unspec accidents and adverse effects
+Y439,All other and unspec accidents and adverse effects
+V170,All other and unspec accidents and adverse effects
+X12,All other and unspec accidents and adverse effects
+Y429,All other and unspec accidents and adverse effects
+Y427,All other and unspec accidents and adverse effects
+Y847,All other and unspec accidents and adverse effects
+W29,All other and unspec accidents and adverse effects
+V199,All other and unspec accidents and adverse effects
+V919,All other and unspec accidents and adverse effects
+Y883,All other and unspec accidents and adverse effects
+W00,All other and unspec accidents and adverse effects
+V950,All other and unspec accidents and adverse effects
+Y412,All other and unspec accidents and adverse effects
+Y828,All other and unspec accidents and adverse effects
+Y422,All other and unspec accidents and adverse effects
+Y610,All other and unspec accidents and adverse effects
+V901,All other and unspec accidents and adverse effects
+Y800,All other and unspec accidents and adverse effects
+Y426,All other and unspec accidents and adverse effects
+X14,All other and unspec accidents and adverse effects
+Y425,All other and unspec accidents and adverse effects
+W89,All other and unspec accidents and adverse effects
+W35,All other and unspec accidents and adverse effects
+V908,All other and unspec accidents and adverse effects
+Y859,All other and unspec accidents and adverse effects
+Y555,All other and unspec accidents and adverse effects
+Y821,All other and unspec accidents and adverse effects
+X13,All other and unspec accidents and adverse effects
+W30,All other and unspec accidents and adverse effects
+V825,All other and unspec accidents and adverse effects
+Y445,All other and unspec accidents and adverse effects
+Y431,All other and unspec accidents and adverse effects
+W15,All other and unspec accidents and adverse effects
+Y641,All other and unspec accidents and adverse effects
+V953,All other and unspec accidents and adverse effects
+X43,All other and unspec accidents and adverse effects
+Y604,All other and unspec accidents and adverse effects
+Y495,All other and unspec accidents and adverse effects
+Y808,All other and unspec accidents and adverse effects
+X37,All other and unspec accidents and adverse effects
+X26,All other and unspec accidents and adverse effects
+Y540,All other and unspec accidents and adverse effects
+W94,All other and unspec accidents and adverse effects
+X54,All other and unspec accidents and adverse effects
+X10,All other and unspec accidents and adverse effects
+V98,All other and unspec accidents and adverse effects
+V905,All other and unspec accidents and adverse effects
+V182,All other and unspec accidents and adverse effects
+V920,All other and unspec accidents and adverse effects
+Y818,All other and unspec accidents and adverse effects
+V069,All other and unspec accidents and adverse effects
+V813,All other and unspec accidents and adverse effects
+W28,All other and unspec accidents and adverse effects
+Y524,All other and unspec accidents and adverse effects
+V99,All other and unspec accidents and adverse effects
+W05,All other and unspec accidents and adverse effects
+Y743,All other and unspec accidents and adverse effects
+Y560,All other and unspec accidents and adverse effects
+W27,All other and unspec accidents and adverse effects
+W16,All other and unspec accidents and adverse effects
+X24,All other and unspec accidents and adverse effects
+Y405,All other and unspec accidents and adverse effects
+Y418,All other and unspec accidents and adverse effects
+Y574,All other and unspec accidents and adverse effects
+Y552,All other and unspec accidents and adverse effects
+V971,All other and unspec accidents and adverse effects
+Y526,All other and unspec accidents and adverse effects
+Y556,All other and unspec accidents and adverse effects
+Y615,All other and unspec accidents and adverse effects
+V181,All other and unspec accidents and adverse effects
+Y455,All other and unspec accidents and adverse effects
+V179,All other and unspec accidents and adverse effects
+V921,All other and unspec accidents and adverse effects
+V169,All other and unspec accidents and adverse effects
+V093,All other and unspec accidents and adverse effects
+X15,All other and unspec accidents and adverse effects
+Y478,All other and unspec accidents and adverse effects
+Y409,All other and unspec accidents and adverse effects
+X48,All other and unspec accidents and adverse effects
+Y518,All other and unspec accidents and adverse effects
+V925,All other and unspec accidents and adverse effects
+Y598,All other and unspec accidents and adverse effects
+V961,All other and unspec accidents and adverse effects
+W26,All other and unspec accidents and adverse effects
+X66,Intentional self-harm
+X74,Intentional self-harm
+X64,Intentional self-harm
+X69,Intentional self-harm
+X81,Intentional self-harm
+X75,Intentional self-harm
+X80,Intentional self-harm
+X82,Intentional self-harm
+X62,Intentional self-harm
+X70,Intentional self-harm
+X68,Intentional self-harm
+X72,Intentional self-harm
+X73,Intentional self-harm
+X79,Intentional self-harm
+X65,Intentional self-harm
+X78,Intentional self-harm
+X63,Intentional self-harm
+X77,Intentional self-harm
+X61,Intentional self-harm
+X60,Intentional self-harm
+X83,Intentional self-harm
+X67,Intentional self-harm
+X71,Intentional self-harm
+X84,Intentional self-harm
+X76,Intentional self-harm
+Y870,Intentional self-harm
+Y078,Assault
+X85,Assault
+Y060,Assault
+X97,Assault
+Y00,Assault
+X89,Assault
+Y05,Assault
+X98,Assault
+Y08,Assault
+Y01,Assault
+X92,Assault
+Y068,Assault
+X93,Assault
+Y061,Assault
+Y09,Assault
+Y071,Assault
+X90,Assault
+Y070,Assault
+Y069,Assault
+X94,Assault
+Y03,Assault
+X86,Assault
+U014,Assault
+X91,Assault
+X96,Assault
+X88,Assault
+X99,Assault
+X95,Assault
+Y871,Assault
+Y079,Assault
+Y02,Assault
+Y04,Assault
+Y073,Assault
+U012,Assault
+Y20,All other external causes
+Y367,All other external causes
+Y368,All other external causes
+Y30,All other external causes
+Y25,All other external causes
+Y10,All other external causes
+Y24,All other external causes
+Y32,All other external causes
+Y13,All other external causes
+Y15,All other external causes
+Y18,All other external causes
+Y27,All other external causes
+Y11,All other external causes
+Y899,All other external causes
+Y22,All other external causes
+Y353,All other external causes
+Y21,All other external causes
+Y33,All other external causes
+Y14,All other external causes
+Y17,All other external causes
+Y355,All other external causes
+Y12,All other external causes
+Y357,All other external causes
+Y29,All other external causes
+Y16,All other external causes
+Y890,All other external causes
+Y891,All other external causes
+Y364,All other external causes
+Y26,All other external causes
+Y352,All other external causes
+Y19,All other external causes
+Y23,All other external causes
+Y872,All other external causes
+Y350,All other external causes
+Y356,All other external causes
+Y31,All other external causes
+Y351,All other external causes
+Y369,All other external causes
+Y34,All other external causes
+Y362,All other external causes
+Y28,All other external causes
+T141,All other external causes
+S099,All other external causes
+T509,All other external causes
+T07,All other external causes
+S019,All other external causes
+T179,All other external causes
+T149,All other external causes
+S720,All other external causes
+T405,All other external causes
+S065,All other external causes
+T71,All other external causes
+T402,All other external causes
+S299,All other external causes
+S219,All other external causes
+S069,All other external causes
+T403,All other external causes
+T099,All other external causes
+T019,All other external causes
+T424,All other external causes
+S199,All other external causes
+T828,All other external causes
+T406,All other external causes
+T404,All other external causes
+T58,All other external causes
+S729,All other external causes
+J958,All other diseases
+K918,All other diseases
+T751,All other external causes
+S029,All other external causes
+S129,All other external causes
+T598,All other external causes
+S062,All other external causes
+S068,All other external causes
+T818,All other external causes
+T401,All other external causes
+T300,All other external causes
+T510,All other external causes
+T432,All other external causes
+T436,All other external causes
+T091,All other external causes
+S328,All other external causes
+S273,All other external causes
+S399,All other external causes
+T814,All other external causes
+S119,All other external causes
+T430,All other external causes
+S318,All other external causes
+S223,All other external causes
+T827,All other external causes
+T817,All other external causes
+S018,All other external causes
+S250,All other external causes
+T519,All other external causes
+T148,All other external causes
+S066,All other external causes
+S015,All other external causes
+T450,All other external causes
+S361,All other external causes
